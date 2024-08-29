@@ -1,0 +1,388 @@
+FNDDS_Code,FNDDS_Desc,FL_Score,FL_Score_Value_chr,FL_Score_Value_NOFEED,FL_Score_Value,FL_Score_Value_grams,FL_Score_Value_NOFEED_grams
+26101110,"Anchovy, cooked, NS as to cooking method","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26101180,"Anchovy, canned","Pelagic, canned (excluding tuna)",1567,1567,1567,0.001567,0.001567
+27150210,Fish sauce,"Pelagic, canned (excluding tuna)",1567,1567,1567,0.001567,0.001567
+26105120,"Carp, baked or broiled, fat added in cooking","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26105140,"Carp, coated, fried","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26105160,"Carp, steamed or poached","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26107121,"Catfish, baked or broiled, made with butter","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107120,"Catfish, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107123,"Catfish, baked or broiled, made without fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107123,"Catfish, baked or broiled, no added fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107131,"Catfish, coated, baked or broiled, made with butter","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107130,"Catfish, coated, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107133,"Catfish, coated, baked or broiled, made without fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107144,"Catfish, coated, fried, made with cooking spray","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107140,"Catfish, coated, fried, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107143,"Catfish, coated, fried, made without fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107143,"Catfish, coated, fried, no added fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107110,"Catfish, cooked, NS as to cooking method","Demersal, average",1306,1306,1306,0.001306,0.001306
+26107160,"Catfish, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306
+28350220,"Clam chowder, Manhattan","Molluscs, average",2043,2012,2043,0.002043,0.002012
+28350210,"Clam chowder, NS as to Manhattan or New England style","Molluscs, average",2043,2012,2043,0.002043,0.002012
+28355110,"Clam chowder, New England, NS as to prepared with water or milk","Molluscs, average",2043,2012,2043,0.002043,0.002012
+28355120,"Clam chowder, New England, prepared with milk","Molluscs, average",2043,2012,2043,0.002043,0.002012
+28355140,"Clam chowder, New England, reduced sodium, canned or ready-to-serve","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26303120,"Clams, baked or broiled, fat added","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26303120,"Clams, baked or broiled, fat added in cooking","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26303121,"Clams, baked or broiled, fat not added in cooking","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26303140,"Clams, coated, fried","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26303110,"Clams, cooked, NS as to cooking method","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26303100,"Clams, raw","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26303160,"Clams, steamed or boiled","Molluscs, average",2043,2012,2043,0.002043,0.002012
+27351040,"Biscayne codfish, Puerto Rican style","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109121,"Cod, baked or broiled, made with butter","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109122,"Cod, baked or broiled, made with margarine","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109120,"Cod, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109123,"Cod, baked or broiled, no added fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109134,"Cod, coated, baked or broiled, made with cooking spray","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109130,"Cod, coated, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109133,"Cod, coated, baked or broiled, made without fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109133,"Cod, coated, baked or broiled, no added fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109141,"Cod, coated, fried, made with butter","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109144,"Cod, coated, fried, made with cooking spray","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109140,"Cod, coated, fried, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109110,"Cod, cooked, NS as to cooking method","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109160,"Cod, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306
+27250030,Codfish ball or cake,"Demersal, average",1306,1306,1306,0.001306,0.001306
+27451070,"Codfish salad, Puerto Rican style, Serenata","Demersal, average",1306,1306,1306,0.001306,0.001306
+27450130,Crab salad made with imitation crab,"Demersal, average",1306,1306,1306,0.001306,0.001306
+27151070,"Stewed codfish, no potatoes, Puerto Rican style","Demersal, average",1306,1306,1306,0.001306,0.001306
+26109170,"Cod, dried, salted","Demersal, cured",4618,4618,4618,0.004618,0.004618
+26109180,"Cod, dried, salted, salt removed in water","Demersal, cured",4618,4618,4618,0.004618,0.004618
+27250040,Crab cake,"Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+27550110,Crab cake sandwich,"Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+27450010,Crab salad,"Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+28355210,"Crab soup, cream of, prepared with milk","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+28350120,"Crab soup, tomato-base","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26305120,"Crab, baked or broiled, fat added","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26305120,"Crab, baked or broiled, fat added in cooking","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26305121,"Crab, baked or broiled, no added fat","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26305130,"Crab, coated, baked or broiled, fat added in cooking","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26305110,"Crab, cooked, NS as to cooking method","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26305160,"Crab, hard shell, steamed","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26307140,"Crab, soft shell, coated, fried","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26309160,"Crayfish, boiled or steamed","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26309140,"Crayfish, coated, fried","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26111120,"Croaker, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+26111120,"Croaker, baked or broiled, fat added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26111140,"Croaker, coated, fried","Demersal, average",1306,1306,1306,0.001306,0.001306
+26111110,"Croaker, cooked, NS as to cooking method","Demersal, average",1306,1306,1306,0.001306,0.001306
+26113110,"Eel, cooked, NS as to cooking method","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26115121,"Flounder, baked or broiled, made with butter","Demersal, average",1306,1306,1306,0.001306,0.001306
+26115124,"Flounder, baked or broiled, made with cooking spray","Demersal, average",1306,1306,1306,0.001306,0.001306
+26115120,"Flounder, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26115123,"Flounder, baked or broiled, made without fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26115123,"Flounder, baked or broiled, no added fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26115130,"Flounder, coated, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26115140,"Flounder, coated, fried, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26115160,"Flounder, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306
+26203110,"Frog legs, NS as to cooking method",None,NA,NA,NA,NA,NA
+26117120,"Haddock, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+26117120,"Haddock, baked or broiled, fat added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26117121,"Haddock, baked or broiled, fat not added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26117121,"Haddock, baked or broiled, no added fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26117130,"Haddock, coated, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+26117130,"Haddock, coated, baked or broiled, fat added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26117131,"Haddock, coated, baked or broiled, fat not added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26117140,"Haddock, coated, fried","Demersal, average",1306,1306,1306,0.001306,0.001306
+26117160,"Haddock, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306
+26118020,"Halibut, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26118030,"Halibut, coated, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26118050,"Halibut, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306
+26119120,"Herring, baked or broiled, fat added","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26119120,"Herring, baked or broiled, fat added in cooking","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26119121,"Herring, baked or broiled, fat not added in cooking","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26119130,"Herring, coated, baked or broiled, fat added in cooking","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26119140,"Herring, coated, fried","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26119110,"Herring, cooked, NS as to cooking method","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+28355250,Lobster bisque,"Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+28355260,Lobster gumbo,"Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+27150060,Lobster newburg,"Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+27450020,Lobster salad,"Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26311120,"Lobster, baked or broiled, fat added","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26311120,"Lobster, baked or broiled, fat added in cooking","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26311121,"Lobster, baked or broiled, no added fat","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26311140,"Lobster, coated, fried","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26311110,"Lobster, cooked, NS as to cooking method","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26311160,"Lobster, steamed or boiled","Crustaceans, average (excluding shrimps)",6158,5812,6158,0.006158,0.005812
+26121120,"Mackerel, baked or broiled, fat added","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26121120,"Mackerel, baked or broiled, fat added in cooking","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26121121,"Mackerel, baked or broiled, fat not added in cooking","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26121121,"Mackerel, baked or broiled, no added fat","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26121140,"Mackerel, coated, fried","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26121110,"Mackerel, cooked, NS as to cooking method","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+27250300,Mackerel cake or patty,"Pelagic, canned (excluding tuna)",1567,1567,1567,0.001567,0.001567
+26121180,"Mackerel, canned","Pelagic, canned (excluding tuna)",1567,1567,1567,0.001567,0.001567
+26121160,"Mackerel, pickled","Pelagic, cured (excluding tuna)",1089,1089,1089,0.001089,0.001089
+26123120,"Mullet, baked or broiled, fat added in cooking","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26123121,"Mullet, baked or broiled, no added fat","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26123160,"Mullet, steamed or poached","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+27350110,Bouillabaisse,Mixed dish: Bouillabaisse,NA,NA,NA,NA,NA
+27450660,"Shellfish mixture and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, mushroom sauce",Mixed dish: Shellfish mixture 1,4100.5,3912,4100.5,0.0041005,0.003912
+27450600,"Shellfish mixture and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",Mixed dish: Shellfish mixture 2,4100.5,3912,4100.5,0.0041005,0.003912
+27250410,Shrimp with crab stuffing,Mixed dish: Shrimp with crab stuffing,5147,4472,5147,0.005147,0.004472
+27150160,Shrimp with lobster sauce,Mixed dish: Shrimp with lobster sauce,5147,4472,5147,0.005147,0.004472
+27150330,Mussels with tomato-based sauce,"Molluscs, average",2043,2012,2043,0.002043,0.002012
+26313110,"Mussels, cooked, NS as to cooking method","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26313100,"Mussels, raw","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26313160,"Mussels, steamed or poached","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26125120,"Ocean perch, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+26125120,"Ocean perch, baked or broiled, fat added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26125121,"Ocean perch, baked or broiled, fat not added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26125160,"Ocean perch, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306
+26205110,"Octopus, cooked, NS as to cooking method","Cephalopods, average",5846,5846,5846,0.005846,0.005846
+26205160,"Octopus, steamed","Cephalopods, average",5846,5846,5846,0.005846,0.005846
+27450250,Oysters Rockefeller,"Molluscs, average",2043,2012,2043,0.002043,0.002012
+26315120,"Oysters, baked or broiled, fat added","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26315121,"Oysters, baked or broiled, no added fat","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26315140,"Oysters, coated, fried","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26315110,"Oysters, cooked, NS as to cooking method","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26315100,"Oysters, raw","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26315130,"Oysters, steamed","Molluscs, average",2043,2012,2043,0.002043,0.002012
+27150200,Oyster sauce,"Molluscs, canned",2263,2220,2263,0.002263,0.00222
+28520100,Oyster sauce,"Molluscs, canned",2263,2220,2263,0.002263,0.00222
+28355310,Oyster stew,"Molluscs, canned",2263,2220,2263,0.002263,0.00222
+28520100,Oyster-flavored sauce,"Molluscs, canned",2263,2220,2263,0.002263,0.00222
+26315190,"Oysters, smoked","Molluscs, cured",1110,1072,1110,0.00111,0.001072
+26127121,"Perch, baked or broiled, made with butter","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26127120,"Perch, baked or broiled, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26127130,"Perch, coated, baked or broiled, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26127140,"Perch, coated, fried, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26127143,"Perch, coated, fried, no added fat","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26127110,"Perch, cooked, NS as to cooking method","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26127160,"Perch, steamed or poached","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26131120,"Pompano, baked or broiled, fat added","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26131120,"Pompano, baked or broiled, fat added in cooking","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26131121,"Pompano, baked or broiled, no added fat","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26131131,"Pompano, coated, baked or broiled, no added fat","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26131140,"Pompano, coated, fried","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26131160,"Pompano, steamed or poached","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26133120,"Porgy, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+26133120,"Porgy, baked or broiled, fat added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26133121,"Porgy, baked or broiled, fat not added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26133121,"Porgy, baked or broiled, no added fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26133130,"Porgy, coated, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+26133130,"Porgy, coated, baked or broiled, fat added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26133140,"Porgy, coated, fried","Demersal, average",1306,1306,1306,0.001306,0.001306
+26133110,"Porgy, cooked, NS as to cooking method","Demersal, average",1306,1306,1306,0.001306,0.001306
+26133160,"Porgy, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306
+26135120,"Ray, baked or broiled, fat added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+27450310,Lomi salmon,"Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+28355350,"Salmon soup, cream style","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137121,"Salmon, baked or broiled, made with butter","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137124,"Salmon, baked or broiled, made with cooking spray","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137122,"Salmon, baked or broiled, made with margarine","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137120,"Salmon, baked or broiled, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137123,"Salmon, baked or broiled, made without fat","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137123,"Salmon, baked or broiled, no added fat","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137131,"Salmon, coated, baked or broiled, made with butter","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137134,"Salmon, coated, baked or broiled, made with cooking spray","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137130,"Salmon, coated, baked or broiled, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137133,"Salmon, coated, baked or broiled, made without fat","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137133,"Salmon, coated, baked or broiled, no added fat","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137141,"Salmon, coated, fried, made with butter","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137142,"Salmon, coated, fried, made with margarine","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137140,"Salmon, coated, fried, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137143,"Salmon, coated, fried, made without fat","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137110,"Salmon, cooked, NS as to cooking method","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137100,"Salmon, raw","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26137160,"Salmon, steamed or poached","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+27250070,Salmon cake or patty,"Freshwater, canned (excluding tilapia)",578,567,578,5.78e-4,5.67e-4
+27550120,Salmon cake sandwich,"Freshwater, canned (excluding tilapia)",578,567,578,5.78e-4,5.67e-4
+27250080,Salmon loaf,"Freshwater, canned (excluding tilapia)",578,567,578,5.78e-4,5.67e-4
+26137180,"Salmon, canned","Freshwater, canned (excluding tilapia)",578,567,578,5.78e-4,5.67e-4
+26137190,"Salmon, smoked","Freshwater, cured (excluding tilapia)",1080,1072,1080,0.00108,0.001072
+26139110,"Sardines, cooked","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+27550510,Sardine sandwich,"Pelagic, canned (excluding tuna)",1567,1567,1567,0.001567,0.001567
+26139180,"Sardines, canned in oil","Pelagic, canned (excluding tuna)",1567,1567,1567,0.001567,0.001567
+26139190,"Sardines, skinless, boneless, packed in water","Pelagic, canned (excluding tuna)",1567,1567,1567,0.001567,0.001567
+26317120,"Scallops, baked or broiled, fat added","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26317120,"Scallops, baked or broiled, fat added in cooking","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26317121,"Scallops, baked or broiled, fat not added in cooking","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26317140,"Scallops, coated, fried","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26317110,"Scallops, cooked, NS as to cooking method","Molluscs, average",2043,2012,2043,0.002043,0.002012
+27151030,Ceviche,"Demersal, average",1306,1306,1306,0.001306,0.001306
+26141120,"Sea bass, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+26141120,"Sea bass, baked or broiled, fat added in cooking","Demersal, average",1306,1306,1306,0.001306,0.001306
+26141130,"Sea bass, coated, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+26141140,"Sea bass, coated, fried","Demersal, average",1306,1306,1306,0.001306,0.001306
+26141110,"Sea bass, cooked, NS as to cooking method","Demersal, average",1306,1306,1306,0.001306,0.001306
+26141160,"Sea bass, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306
+26143120,"Shark, baked or broiled, fat added","Demersal, average",1306,1306,1306,0.001306,0.001306
+27250130,Shrimp and noodles with cheese sauce,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27250126,Shrimp and noodles with cream or white sauce,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27250128,Shrimp and noodles with soy-based sauce,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27250132,Shrimp and noodles with tomato sauce,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27250120,"Shrimp and noodles, no sauce","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27450405,"Shrimp and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27450420,"Shrimp and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+28154010,"Shrimp and vegetables in sauce with noodles, diet frozen meal","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27450400,"Shrimp and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, no sauce","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27450410,"Shrimp and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27250400,Shrimp cake or patty,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27350050,Shrimp chow mein or chop suey with noodles,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27450040,"Shrimp chow mein or chop suey, no noodles","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27150110,Shrimp cocktail,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27450450,"Shrimp creole, no rice","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27350060,"Shrimp creole, with rice","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27150100,Shrimp curry,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+28355440,Shrimp gumbo,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27450070,Shrimp salad,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27150230,Shrimp scampi,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+28355410,"Shrimp soup, cream of, NS as to prepared with milk or water","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+28355420,"Shrimp soup, cream of, prepared with milk","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+28355430,"Shrimp soup, cream of, prepared with water","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27150410,Shrimp teriyaki,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319121,"Shrimp, baked or broiled, made with butter","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319124,"Shrimp, baked or broiled, made with cooking spray","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319122,"Shrimp, baked or broiled, made with margarine","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319120,"Shrimp, baked or broiled, made with oil","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319123,"Shrimp, baked or broiled, made without fat","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319123,"Shrimp, baked or broiled, no added fat","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319161,"Shrimp, coated, baked or broiled, made with butter","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319160,"Shrimp, coated, baked or broiled, made with oil","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319163,"Shrimp, coated, baked or broiled, made without fat","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319163,"Shrimp, coated, baked or broiled, no added fat","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319145,"Shrimp, coated, fried, from fast food / restaurant","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319140,"Shrimp, coated, fried, made with oil","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319143,"Shrimp, coated, fried, made without fat","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319143,"Shrimp, coated, fried, no added fat","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319110,"Shrimp, cooked, NS as to cooking method","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319130,"Shrimp, steamed or boiled","Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+27150170,Sweet and sour shrimp,"Crustaceans, average (shrimps)",4136,3132,4136,0.004136,0.003132
+26319170,"Shrimp, dried","Crustaceans, cured (shrimps)",4967,4419,4967,0.004967,0.004419
+26321110,"Snails, cooked, NS as to cooking method","Molluscs, average",2043,2012,2043,0.002043,0.002012
+26213120,"Squid, baked or broiled, fat added","Cephalopods, average",5846,5846,5846,0.005846,0.005846
+26213120,"Squid, baked or broiled, fat added in cooking","Cephalopods, average",5846,5846,5846,0.005846,0.005846
+26213140,"Squid, coated, fried","Cephalopods, average",5846,5846,5846,0.005846,0.005846
+26213100,"Squid, raw","Cephalopods, average",5846,5846,5846,0.005846,0.005846
+26213160,"Squid, steamed or boiled","Cephalopods, average",5846,5846,5846,0.005846,0.005846
+26213190,"Squid, canned","Cephalopods, canned",3334,3334,3334,0.003334,0.003334
+26213170,"Squid, dried","Cephalopods, cured",9605,9605,9605,0.009605,0.009605
+26211100,"Roe, sturgeon","Pelagic, canned (excluding tuna)",1567,1567,1567,0.001567,0.001567
+26149120,"Swordfish, baked or broiled, fat added in cooking","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26149160,"Swordfish, steamed or poached","Pelagic, average (excluding tuna)",996,996,996,9.96e-4,9.96e-4
+26158011,"Tilapia, baked or broiled, made with butter","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158014,"Tilapia, baked or broiled, made with cooking spray","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158012,"Tilapia, baked or broiled, made with margarine","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158010,"Tilapia, baked or broiled, made with oil","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158013,"Tilapia, baked or broiled, made without fat","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158013,"Tilapia, baked or broiled, no added fat","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158020,"Tilapia, coated, baked or broiled, made  with oil","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158021,"Tilapia, coated, baked or broiled, made with butter","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158024,"Tilapia, coated, baked or broiled, made with cooking spray","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158020,"Tilapia, coated, baked or broiled, made with oil","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158023,"Tilapia, coated, baked or broiled, made without fat","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158023,"Tilapia, coated, baked or broiled, no added fat","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158031,"Tilapia, coated, fried, made with butter","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158034,"Tilapia, coated, fried, made with cooking spray","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158032,"Tilapia, coated, fried, made with margarine","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158030,"Tilapia, coated, fried, made with oil","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158033,"Tilapia, coated, fried, made without fat","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158000,"Tilapia, cooked, NS as to cooking method","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26158050,"Tilapia, steamed or poached","Freshwater, average (tilapia)",229,225,229,2.29e-4,2.25e-4
+26151121,"Trout, baked or broiled, made with butter","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26151120,"Trout, baked or broiled, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26151130,"Trout, coated, baked or broiled, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26151133,"Trout, coated, baked or broiled, no added fat","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26151142,"Trout, coated, fried, made with margarine","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26151140,"Trout, coated, fried, made with oil","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26151110,"Trout, cooked, NS as to cooking method","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26151160,"Trout, steamed or poached","Freshwater, average (excluding tilapia)",751,737,751,7.51e-4,7.37e-4
+26151190,"Trout, smoked","Freshwater, cured (excluding tilapia)",1080,1072,1080,0.00108,0.001072
+26153120,"Tuna, fresh, baked or broiled, fat added","Pelagic, average (tuna)",1406,1406,1406,0.001406,0.001406
+26153120,"Tuna, fresh, baked or broiled, fat added in cooking","Pelagic, average (tuna)",1406,1406,1406,0.001406,0.001406
+26153122,"Tuna, fresh, baked or broiled, fat not added in cooking","Pelagic, average (tuna)",1406,1406,1406,0.001406,0.001406
+26153122,"Tuna, fresh, baked or broiled, no added fat","Pelagic, average (tuna)",1406,1406,1406,0.001406,0.001406
+26153131,"Tuna, fresh, coated, baked or broiled, no added fat","Pelagic, average (tuna)",1406,1406,1406,0.001406,0.001406
+26153110,"Tuna, fresh, cooked, NS as to cooking method","Pelagic, average (tuna)",1406,1406,1406,0.001406,0.001406
+26153100,"Tuna, fresh, raw","Pelagic, average (tuna)",1406,1406,1406,0.001406,0.001406
+26153160,"Tuna, fresh, steamed or poached","Pelagic, average (tuna)",1406,1406,1406,0.001406,0.001406
+27250160,Tuna cake or patty,"Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27250610,Tuna noodle casserole with cream or white sauce,"Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27250630,Tuna noodle casserole with mushroom sauce,"Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27350080,"Tuna noodle casserole with vegetables, cream or white sauce","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27550720,"Tuna salad sandwich, on bread","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27550730,"Tuna salad sandwich, on bread, with cheese","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27550740,"Tuna salad sandwich, on bun","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27550745,"Tuna salad sandwich, on bun, with cheese","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27550751,"Tuna salad submarine sandwich, with cheese, lettuce and tomato","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27550750,"Tuna salad submarine sandwich, with lettuce and tomato","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450090,Tuna salad with cheese,"Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450100,Tuna salad with egg,"Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27550755,Tuna salad wrap sandwich,"Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450066,"Tuna salad, made with Italian dressing","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450068,"Tuna salad, made with any type of fat free dressing","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450064,"Tuna salad, made with creamy dressing","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450061,"Tuna salad, made with light mayonnaise","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450063,"Tuna salad, made with light mayonnaise-type salad dressing","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450060,"Tuna salad, made with mayonnaise","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+27450062,"Tuna salad, made with mayonnaise-type salad dressing","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+26155110,"Tuna, canned, NS as to oil or water pack","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+26155180,"Tuna, canned, oil pack","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+26155190,"Tuna, canned, water pack","Pelagic, canned (tuna)",1214,1214,1214,0.001214,0.001214
+26153170,"Tuna, fresh, dried","Pelagic, cured (tuna)",331,331,331,3.31e-4,3.31e-4
+26215120,"Turtle, cooked, NS as to cooking method",Aquatic animals,440,440,440,4.4e-4,4.4e-4
+27250810,Fish and rice with tomato-based sauce,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+28351110,"Fish and vegetable soup, no potatoes, Mexican style",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27450750,"Fish and vegetables excluding  carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27450710,"Fish and vegetables excluding carrots, broccoli, and dark- green leafy; no potatoes, tomato-based sauce",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27450740,"Fish and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27450700,"Fish and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, tomato-based sauce",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27250050,"Fish cake or patty, NS as to fish",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+28350050,Fish chowder,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27150320,Fish curry,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27150325,Fish curry with rice,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+28150510,"Fish in lemon-butter sauce with starch item, vegetable, frozen meal",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27150250,Fish moochim,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550300,"Fish sandwich, NFS",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550000,"Fish sandwich, fried, from fast food",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550100,"Fish sandwich, fried, from fast food, with cheese",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550410,"Fish sandwich, fried, on wheat bun",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550400,"Fish sandwich, fried, on white bun",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550405,"Fish sandwich, fried, on white bun, with cheese",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550200,"Fish sandwich, from school cafeteria",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550420,"Fish sandwich, grilled",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550100,"Fish sandwich, on bun, with cheese and spread",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550000,"Fish sandwich, on bun, with spread",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100260,"Fish stick, patty or nugget from fast food",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100270,"Fish stick, patty or nugget from restaurant, home, or other place",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+28350040,"Fish stock, home recipe",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27150310,Fish with tomato-based sauce,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550425,Fish wrap sandwich,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100122,"Fish, NS as to type, baked or broiled, made with margarine",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100120,"Fish, NS as to type, baked or broiled, made with oil",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100123,"Fish, NS as to type, baked or broiled, made without fat",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100123,"Fish, NS as to type, baked or broiled, no added fat",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100180,"Fish, NS as to type, canned",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100130,"Fish, NS as to type, coated, baked or broiled, made with oil",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100133,"Fish, NS as to type, coated, baked or broiled, made without fat",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100133,"Fish, NS as to type, coated, baked or broiled, no added fat",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100142,"Fish, NS as to type, coated, fried, made with margarine",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100140,"Fish, NS as to type, coated, fried, made with oil",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100110,"Fish, NS as to type, cooked, NS as to cooking method",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100170,"Fish, NS as to type, dried",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100200,"Fish, NS as to type, from fast food",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100100,"Fish, NS as to type, raw",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100190,"Fish, NS as to type, smoked",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26100160,"Fish, NS as to type, steamed",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550150,Fried seafood sandwich,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27250520,Seafood restructured,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27450080,Seafood salad,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27550800,Seafood salad sandwich,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27150140,Seafood sauce,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+28355450,"Seafood soup with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+28355460,"Seafood soup with potatoes, and vegetables excluding carrots, broccoli, and dark-green leafy",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+28355480,"Seafood soup with vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+28355470,"Seafood soup with vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes",Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27150151,Spaghetti sauce with seafood,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+27150155,Spaghetti sauce with seafood and added vegetables,Unspecified fish,1674.14,1414.46,1674.14,0.0016741400000000002,0.00141446
+26157120,"Whiting, baked or broiled, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26157123,"Whiting, baked or broiled, made without fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26157123,"Whiting, baked or broiled, no added fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26157132,"Whiting, coated, baked or broiled, made with margarine","Demersal, average",1306,1306,1306,0.001306,0.001306
+26157133,"Whiting, coated, baked or broiled, made without fat","Demersal, average",1306,1306,1306,0.001306,0.001306
+26157140,"Whiting, coated, fried, made with oil","Demersal, average",1306,1306,1306,0.001306,0.001306
+26157110,"Whiting, cooked, NS as to cooking method","Demersal, average",1306,1306,1306,0.001306,0.001306
+26157160,"Whiting, steamed or poached","Demersal, average",1306,1306,1306,0.001306,0.001306

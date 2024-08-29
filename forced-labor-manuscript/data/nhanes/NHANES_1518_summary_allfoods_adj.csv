@@ -1,0 +1,24 @@
+food,mean,SE,food_label,food_desc
+added_sugar_adj,15.14670307,0.274243418,Added sugars,Foods defined as added sugars (tsp. eq.)
+dairy_tot_adj,1.385376681,0.025190152,Dairy (total),"Total milk, yogurt, cheese, and whey (cup ep.)"
+fruit_exc_juice_adj,0.704235957,0.025285476,Fruit excluding juice,"Intact fruits (whole or cut) of citrus, melons, and berries (cup eq.); Intact fruits (whole or cut); excluding citrus, melons, and berries (cup eq.)"
+fruit_juice_adj,0.210911782,0.007096192,Fruit juice,"Fruit juices, citrus and non-citrus (cup eq.)"
+gr_refined_adj,5.250960187,0.055023824,Refined grains,Refined grains that do not contain all of the components of the entire grain kernel (oz. eq.)
+gr_whole_adj,0.887337867,0.029828663,Whole grains,"Grains defined as whole grains and contain the entire grain kernel ― the bran, germ, and endosperm (oz. eq.)"
+leg_tot_adj,0.564582272,0.027929712,"Beans, peas, lentils (total)","Beans and Peas (legumes) computed as protein foods (oz. eq.); Soy products, excluding calcium fortified soy milk (soymilk) and raw soybeans products (oz. eq.)"
+oil_adj,27.57818455,0.29325908,Oils,"Fats naturally present in nuts, seeds, and seafood; all unhydrogenated vegetable oils, except palm oil, palm kernel oil, and coconut oils; the fat present in avocado and olives above the allowable amount; 50% of the fat present in stick and tub margarines and margarine spreads (grams)"
+pf_egg_adj,0.596563462,0.016395089,Eggs,"Eggs (chicken, duck, goose, quail) and egg substitutes (oz. eq.)"
+pf_ns_adj,0.747677824,0.038499595,Nuts and seeds,"Peanuts, tree nuts, and seeds; excludes coconut (oz. eq.)"
+pf_pm_adj,0.931055009,0.019341276,Processed meat,"Frankfurters, sausages, corned beef, cured ham and luncheon meat that are made from beef, pork, or poultry (oz. eq.)"
+pf_poultry_adj,1.579961057,0.04315352,Unprocessed poultry,"Chicken, turkey, Cornish hens, duck, goose, quail, and pheasant (game birds); excludes organ meat and cured meat (oz. eq.)"
+pf_poultry_tot_adj,1.831068966,0.043748526,Unprocessed and processed poultry,Combination of ‘uncured poultry’ and ‘cured poultry’
+pf_redm_adj,1.511352163,0.041637037,Unprocessed red meat,"Beef, veal, pork, lamb, and game meat; excludes organ meat and cured meat (oz. eq.)"
+pf_redm_tot_adj,2.209755741,0.045277589,Unprocessed and processed red meat,Combination of ‘uncured red meat’ and ‘cured red meat’
+pf_seafood_adj,0.611581585,0.029405744,Seafood,"Seafood (finfish, shellfish, and other seafood) high in n-3 fatty acids (oz. eq.); Seafood (finfish, shellfish, and other seafood) low in n-3 fatty acids (oz. eq.)"
+sodium_adj,3521.535546,82.73350445,Sodium,Sodium (mg)
+ssb_adj,279.2469082,12.65371063,Sugar sweetened beverages,Sugar sweetened beverages (gm)
+veg_dg_adj,0.168619865,0.008629929,Dark-green vegetables,Dark green vegetables (cup eq.)
+veg_exc_sta_adj,1.118718822,0.026333374,Vegetables excluding starchy,"Dark green vegetables (cup eq.); Other red and orange vegetables, excluding tomatoes and tomato products (cup eq.); Other vegetables not in the vegetable components listed above (cup eq.)"
+veg_oth_adj,0.558111394,0.013450993,Other vegetables,Other vegetables not in the vegetable components listed above (cup eq.)
+veg_ro_adj,0.375963123,0.009262718,Red and orange vegetables,"Other red and orange vegetables, excluding tomatoes and tomato products (cup eq.)"
+veg_sta_adj,0.430544519,0.012460724,Starchy vegetables,Total starchy vegetables (white potatoes + other starchy vegetables) (cup eq.)

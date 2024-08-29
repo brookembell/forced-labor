@@ -1,0 +1,42 @@
+Food_group,DGA_unit,Conversion_to_grams,Equation
+added_sugar,1 tsp eq,4.2,1 tsp = 4.2 g
+dairy_tot,1 cup eq,149,1 cup eq = 149 g
+dairy_cow,1 cup eq,149,1 cup eq = 149 g
+dairy_soy,1 cup eq,149,1 cup eq = 149 g
+fruit_tot,1 cup eq,182,1 cup eq = 182 g
+fruit_exc_juice,1 cup eq,152,1 cup eq = 152 g
+fruit_juice,1 cup eq,251,1 cup eq = 251 g
+gr_refined,1 oz eq,36,1 oz eq = 36 g
+gr_whole,1 oz eq,51,1 oz eq = 51 g
+oil,1 g,1,1 g = 1 g
+pf_egg,1 oz eq,50,1 oz eq = 50 g
+pf_leg,1 oz eq,44,1 oz eq = 44 g
+pf_ns,1 oz eq,15,1 oz eq = 15 g
+pf_pm,1 oz eq,31,1 oz eq = 31 g
+pf_poultry,1 oz eq,29,1 oz eq = 29 g
+pf_poultry_tot,1 oz eq,29,1 oz eq = 29 g
+pf_redm,1 oz eq,31,1 oz eq = 31 g
+pf_redm_tot,1 oz eq,31,1 oz eq = 31 g
+pf_seafood,1 oz eq,29,1 oz eq = 29 g
+pf_soy,1 oz eq,24,1 oz eq = 24 g
+sat_fat,1 g,1,1 g = 1 g
+veg_dg,1 cup eq,118,1 cup eq = 118 g
+veg_leg,1 cup eq,175,1 cup eq = 175 g
+veg_oth,1 cup eq,140,1 cup eq = 140 g
+veg_ro,1 cup eq,144,1 cup eq = 144 g
+veg_sta,1 cup eq,134,1 cup eq = 134 g
+veg_exc_sta,1 cup eq,139,1 cup eq = 139 g
+leg_tot,1 oz eq,37,1 oz eq = 37 g
+ssb,1 cup (8 fl oz),240,1 cup (8 fl oz) = 240 g
+sea_omega3_fa,1 mg,1,1 mg = 1 mg
+sodium,1 mg,1,1 mg = 1 mg
+fiber,1 g,1,1 g = 1 g
+pf_animal,1 oz eq,0,NA
+pf_plant,1 oz eq,0,NA
+pufa_rep_carb,1 %E,1,1 %E = 1%E
+pufa_rep_sfa,1 %E,1,1 %E = 1%E
+pufa_rep_carbsfa,1 %E,1,1 %E = 1%E
+babyfood,1 oz eq,0,NA
+coffee_tea,1 cup eq,0,NA
+other,1 cup eq,0,NA
+water,1 oz eq,0,NA

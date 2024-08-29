@@ -1,0 +1,50 @@
+FCID_Code,FCID_Desc,Foodgroup,FL_Score,FL_Score_Value_grams_converted,Rank
+2201001500,Agave,added_sugar,Maple sugar and syrups,0.011000000000000001,Min
+9500219000,Maple syrup,added_sugar,Maple sugar and syrups,0.011000000000000001,Min
+9500186000,Honey,added_sugar,"Honey, natural",0.11820000000000001,Max
+600349000,"Soybean, soy milk",dairy,Soybeans,0.028235294117647056,Min
+3600222000,"Milk, fat",dairy,"Milk, whole fresh cow",0.13905079100749376,Max
+3600223000,"Milk, nonfat solids",dairy,"Milk, whole fresh cow",0.13905079100749376,Max
+1307130000,Cranberry,fruit_exc_juice,Cranberries,0.004794,Min
+2402020000,Avocado,fruit_exc_juice,Avocados,0.15646500000000002,Max
+1307132000,"Cranberry, juice",fruit_juice,Cranberries,0.006109999999999999,Min
+2402290000,"Pomegranate, juice",fruit_juice,"Juice, fruit nes",0.3046,Max
+1500120000,"Corn, field, flour",gr_refined,"Flour, maize",0.0034999999999999996,Min
+1500325000,"Rice, flour",gr_refined,"Flour, rice",0.134,Max
+1500126000,"Corn, pop",gr_whole,Maize,7e-4,Min
+1500344000,"Sorghum, grain",gr_whole,Sorghum,7e-4,Min
+9500311000,"Quinoa, grain",gr_whole,Quinoa,0.12190000000000001,Max
+1800002000,"Alfalfa, seed",leg_tot,"Peas, dry",0.0024000000000000002,Min
+603256000,"Pea, dry",leg_tot,"Peas, dry",0.0024000000000000002,Min
+603258000,"Pea, pigeon, seed",leg_tot,"Peas, dry",0.0024000000000000002,Min
+602033000,"Bean, cowpea, succulent",leg_tot,"Beans, green",0.0444,Max
+602037000,"Bean, lima, succulent",leg_tot,"Beans, green",0.0444,Max
+1001108000,"Citrus, oil",oil,"Fruit, citrus nes",0.0059,Min
+2001337000,"Sesame, oil",oil,Sesame seed,0.8223255813953488,Max
+7000145000,"Egg, whole",pf_egg,"Eggs, hen, in shell",0.027246,Min
+7000146000,"Egg, white",pf_egg,"Eggs, liquid",0.10134599999999999,Max
+7000147000,"Egg, yolk",pf_egg,"Eggs, liquid",0.10134599999999999,Max
+1400278000,Pine nut,pf_ns,Pistachios,0.0082,Min
+1400081000,Cashew,pf_ns,"Cashew nuts, shelled",1.6223999999999998,Max
+1400213000,Macadamia nut,pf_ns,"Cashew nuts, shelled",1.6223999999999998,Max
+5000383000,"Turkey, liver",pf_poultry,"Meat, turkey",0.0338,Min
+5000382000,"Turkey, meat",pf_poultry,"Meat, turkey",0.0338,Min
+5000384000,"Turkey, meat byproducts",pf_poultry,"Meat, turkey",0.0338,Min
+5000386000,"Turkey, skin",pf_poultry,"Meat, turkey",0.0338,Min
+4000094000,"Chicken, liver",pf_poultry,"Meat, chicken",0.0456,Max
+4000093000,"Chicken, meat",pf_poultry,"Meat, chicken",0.0456,Max
+4000095000,"Chicken, meat byproducts",pf_poultry,"Meat, chicken",0.0456,Max
+4000097000,"Chicken, skin",pf_poultry,"Meat, chicken",0.0456,Max
+3800221000,"Meat, game",pf_redm,"Meat, game",0.031599999999999996,Min
+3900312000,"Rabbit, meat",pf_redm,"Meat, rabbit",0.2421,Max
+5000385000,"Turkey, fat",sat_fat,"Meat, turkey",0.0338,Min
+3100047000,"Beef, fat",sat_fat,"Meat, cattle, boneless",0.2417,Max
+200332000,"Salsify, tops",veg_dg,Carrots and turnips,0.0057,Min
+2201019000,Asparagus,veg_dg,Asparagus,0.22339799999999999,Max
+101250000,"Parsley, turnip rooted",veg_oth,Carrots and turnips,0.0057,Min
+101331000,"Salsify, roots",veg_oth,Carrots and turnips,0.0057,Min
+1902274000,"Pepper, black and white",veg_oth,Pepper (piper spp.),0.532,Max
+103366000,Sweet potato,veg_ro,Sweet potatoes,0.002224,Min
+802270000,"Pepper, bell",veg_ro,"Chillies and peppers, green",0.052947999999999995,Max
+103299000,"Potato, tuber, w/peel",veg_sta,Potatoes,5e-4,Min
+103015000,"Arrowroot, flour",veg_sta,"Flour, roots and tubers nes",0.9436,Max
