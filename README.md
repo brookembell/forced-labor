@@ -15,7 +15,7 @@ There are four main folders:
   * mappings: contains multiple mapping datasets that are used to link together various datasets together in order to conduct the analyses.
   * nhanes: contains multiple NHANES food intake datasets.
   * rec_patterns: contains the four recommended dietary patterns, including the three U.S. Dietary Guidelines  patterns and the Planetary Health Diet pattern.
-  * sensitivity_analysis: contains the datasets need to conduct the sensitvity analysis.
+  * sensitivity_analysis: contains the datasets needed to conduct the sensitivity analysis.
   * temp_output: contains temporary datasets that are created while running the code.
   * unit_conversions: contains conversion units needed to transform all of the food intake units from teaspoon, cup, or ounce to gram.
 - figures: contains the manuscript figures.
