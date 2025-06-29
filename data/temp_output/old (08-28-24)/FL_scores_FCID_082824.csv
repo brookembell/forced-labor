@@ -1,0 +1,400 @@
+FCID_Code,FCID_Desc,Foodgroup,FL_Score,Weight_Conversion,FL_Score_Value,FL_Score_Value_NOFEED,FL_Score_Value_grams,FL_Score_Value_NOFEED_grams,FCID_Code_chr
+2303000500,Acai berry,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2303000500
+2301001000,Acerola,fruit_exc_juice,Berries nes,1.04,215,215,2.15e-4,2.15e-4,2301001000
+2201001500,Agave,added_sugar,Maple sugar and syrups,1,110,110,1.1e-4,1.1e-4,2201001500
+1800002000,"Alfalfa, seed",leg_tot,"Peas, dry",1,24,24,2.4e-5,2.4e-5,1800002000
+1400003000,Almond,pf_ns,Almonds shelled,1,1041,1041,0.001041,0.001041,1400003000
+1400004000,"Almond, oil",oil,Almonds shelled,2.3255813953488373,1041,1041,0.001041,0.001041,1400004000
+9500006000,"Amaranth, grain",gr_whole,"AVERAGE(Rice, milled; Oats rolled; Fonio; Quinoa; Bulgur; Barley, pearled; Sorghum)",1,767.4285714285714,767.4285714285714,7.674285714285715e-4,7.674285714285715e-4,9500006000
+401005000,"Amaranth, leafy",veg_dg,Spinach,1,111,111,1.11e-4,1.11e-4,401005000
+1100009000,"Apple, dried",fruit_exc_juice,Apples,6.15,61,61,6.1e-5,6.1e-5,1100009000
+1100007000,"Apple, fruit with peel",fruit_exc_juice,Apples,1.11,61,61,6.1e-5,6.1e-5,1100007000
+1100010000,"Apple, juice",fruit_juice,"Juice, apple, single strength",1,359,359,3.59e-4,3.59e-4,1100010000
+1100008000,"Apple, peeled fruit",fruit_exc_juice,Apples,1.3,61,61,6.1e-5,6.1e-5,1100008000
+1100011000,"Apple, sauce",fruit_exc_juice,Apples,1.4,61,61,6.1e-5,6.1e-5,1100011000
+1202012000,Apricot,fruit_exc_juice,Apricots,1.08,95,95,9.5e-5,9.5e-5,1202012000
+1202013000,"Apricot, dried",fruit_exc_juice,"Apricots, dry",1,245,245,2.45e-4,2.45e-4,1202013000
+1202014000,"Apricot, juice",fruit_juice,Apricots,1.63,95,95,9.5e-5,9.5e-5,1202014000
+103015000,"Arrowroot, flour",veg_sta,"Flour, roots and tubers nes",1,9436,9436,0.009436,0.009436,103015000
+9500016000,"Artichoke, globe",veg_oth,Artichokes,2.5,249,249,2.49e-4,2.49e-4,9500016000
+103017000,"Artichoke, Jerusalem",veg_oth,Roots and tubers nes,2.5,572,572,5.72e-4,5.72e-4,103017000
+402018000,Arugula,veg_dg,Spinach,1.67,111,111,1.11e-4,1.11e-4,402018000
+2201019000,Asparagus,veg_dg,Asparagus,1.89,1182,1182,0.001182,0.001182,2201019000
+2401019500,Atemoya,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2401019500
+2402020000,Avocado,fruit_exc_juice,Avocados,1.35,1159,1159,0.001159,0.001159,2402020000
+902021000,Balsam pear,fruit_exc_juice,Cucumbers and gherkins,1,239,239,2.39e-4,2.39e-4,902021000
+2201022000,"Bamboo, shoots",veg_oth,"Vegetables, fresh nes",3.45,58,58,5.8e-5,5.8e-5,2201022000
+2402023000,Banana,fruit_exc_juice,Bananas,1.56,153,153,1.53e-4,1.53e-4,2402023000
+2402024000,"Banana, dried",fruit_exc_juice,Bananas,6.04,153,153,1.53e-4,1.53e-4,2402024000
+1500027000,"Barley, bran",gr_whole,Barley,5.2631578947368425,23,23,2.3e-5,2.3e-5,1500027000
+1500026000,"Barley, flour",gr_whole,Barley,3.0864197530864197,23,23,2.3e-5,2.3e-5,1500026000
+1500025000,"Barley, pearled barley",gr_whole,"Barley, pearled",1,74,74,7.4e-5,7.4e-5,1500025000
+1901029000,"Basil, dried leaves",veg_oth,Spinach,11.2909319899244,111,111,1.11e-4,1.11e-4,1901029000
+1901028000,"Basil, fresh leaves",veg_oth,Spinach,1,111,111,1.11e-4,1.11e-4,1901028000
+603035000,"Bean,  great northern, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603035000
+603030000,"Bean, black, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603030000
+603032000,"Bean, broad, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603032000
+602031000,"Bean, broad, succulent",leg_tot,"AVERAGE(Beans, green; String beans)",1,349.5,349.5,3.495e-4,3.495e-4,602031000
+603034000,"Bean, cowpea, seed",leg_tot,"Cow peas, dry",1,138,138,1.38e-4,1.38e-4,603034000
+602033000,"Bean, cowpea, succulent",leg_tot,"Beans, green",1,444,444,4.44e-4,4.44e-4,602033000
+603036000,"Bean, kidney, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603036000
+603038000,"Bean, lima, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603038000
+602037000,"Bean, lima, succulent",leg_tot,"Beans, green",1,444,444,4.44e-4,4.44e-4,602037000
+603039000,"Bean, mung, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603039000
+603040000,"Bean, navy, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603040000
+603041000,"Bean, pink, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603041000
+603042000,"Bean, pinto, seed",leg_tot,"Beans, dry",1,201,201,2.01e-4,2.01e-4,603042000
+601043000,"Bean, snap, succulent",leg_tot,String beans,1.14,255,255,2.55e-4,2.55e-4,601043000
+3100047000,"Beef, fat",sat_fat,"Meat, cattle, boneless",1,2417,1782,0.002417,0.001782,3100047000
+3100048000,"Beef, kidney",pf_redm,"Meat, cattle, boneless",1,2417,1782,0.002417,0.001782,3100048000
+3100049000,"Beef, liver",pf_redm,"Meat, cattle, boneless",1,2417,1782,0.002417,0.001782,3100049000
+3100044000,"Beef, meat",pf_redm,"Meat, cattle, boneless",1,2417,1782,0.002417,0.001782,3100044000
+3100046000,"Beef, meat byproducts",pf_redm,"Meat, cattle, boneless",1,2417,1782,0.002417,0.001782,3100046000
+3100045000,"Beef, meat, dried",pf_redm,"Meat, beef, dried, salted, smoked",1,4019,3464,0.004019,0.003464,3100045000
+101050000,"Beet, garden, roots",veg_ro,"Vegetables, fresh nes",1.11,58,58,5.8e-5,5.8e-5,101050000
+200051000,"Beet, garden, tops",veg_dg,"Vegetables, fresh nes",1.79,58,58,5.8e-5,5.8e-5,200051000
+101052000,"Beet, sugar",added_sugar,Sugar refined,1,451,451,4.51e-4,4.51e-4,101052000
+101053000,"Beet, sugar, molasses",added_sugar,Sugar refined,1,451,451,4.51e-4,4.51e-4,101053000
+9500054000,Belgium endive,veg_oth,Lettuce and chicory,1.146,111,111,1.11e-4,1.11e-4,9500054000
+1301055000,Blackberry,fruit_exc_juice,Berries nes,1.04,215,215,2.15e-4,2.15e-4,1301055000
+1301056000,"Blackberry, juice",fruit_juice,Raspberries,1.3,298,298,2.98e-4,2.98e-4,1301056000
+1302057000,Blueberry,fruit_exc_juice,Blueberries,1.05,527,527,5.27e-4,5.27e-4,1302057000
+1301058000,Boysenberry,fruit_exc_juice,Berries nes,1.04,215,215,2.15e-4,2.15e-4,1301058000
+1400059000,Brazil nut,pf_ns,"Brazil nuts, shelled",1,3860,3860,0.00386,0.00386,1400059000
+2403060000,Breadfruit,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.28,478.25,478.25,4.7825e-4,4.7825e-4,2403060000
+500061000,Broccoli,veg_dg,Cauliflowers and broccoli,1.64,84,84,8.4e-5,8.4e-5,500061000
+402063000,Broccoli raab,veg_dg,Cauliflowers and broccoli,1.64,84,84,8.4e-5,8.4e-5,402063000
+402062000,"Broccoli, Chinese",veg_dg,Cauliflowers and broccoli,1,84,84,8.4e-5,8.4e-5,402062000
+500064000,Brussels sprouts,veg_dg,Cabbages and other brassicas,1.11,77,77,7.7e-5,7.7e-5,500064000
+1500065000,Buckwheat,gr_whole,Buckwheat,1,94,94,9.4e-5,9.4e-5,1500065000
+1500066000,"Buckwheat, flour",gr_whole,"Flour, buckwheat",1,266,266,2.66e-4,2.66e-4,1500066000
+101067000,Burdock,veg_sta,AVERAGE(Chicory roots; Roots and tubers nes),1.33,297.5,297.5,2.975e-4,2.975e-4,101067000
+1400068000,Butternut,pf_ns,"Walnuts, shelled",1,761,761,7.61e-4,7.61e-4,1400068000
+500069000,Cabbage,veg_oth,Cabbages and other brassicas,1.25,77,77,7.7e-5,7.7e-5,500069000
+402070000,"Cabbage, Chinese, bok choy",veg_dg,Cabbages and other brassicas,1.14,77,77,7.7e-5,7.7e-5,402070000
+500072000,"Cabbage, Chinese, mustard",veg_oth,Cabbages and other brassicas,1.08,77,77,7.7e-5,7.7e-5,500072000
+500071000,"Cabbage, Chinese, napa",veg_oth,Cabbages and other brassicas,1.14,77,77,7.7e-5,7.7e-5,500071000
+2201073000,Cactus,veg_oth,Cucumbers and gherkins,1.04,239,239,2.39e-4,2.39e-4,2201073000
+2401074000,Canistel,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2401074000
+901075000,Cantaloupe,fruit_exc_juice,"Melons, other (inc. cantaloupes)",1.96,80,80,8e-5,8e-5,901075000
+2202076000,Cardoon,veg_oth,"Vegetables, fresh nes",1,58,58,5.8e-5,5.8e-5,2202076000
+2302077000,Carob,leg_tot,"Flour, pulses",1,278,278,2.78e-4,2.78e-4,2302077000
+101078000,Carrot,veg_ro,Carrots and turnips,1.12,57,57,5.7e-5,5.7e-5,101078000
+101079000,"Carrot, juice",veg_ro,Carrots and turnips,1.12,57,57,5.7e-5,5.7e-5,101079000
+1400081000,Cashew,pf_ns,"Cashew nuts, shelled",1,16224,16224,0.016224,0.016224,1400081000
+103082000,Cassava,veg_sta,Roots and tubers nes,1,572,572,5.72e-4,5.72e-4,103082000
+500083000,Cauliflower,veg_oth,Cauliflowers and broccoli,2.56,84,84,8.4e-5,8.4e-5,500083000
+101084000,Celeriac,veg_oth,"Vegetables, fresh nes",1,58,58,5.8e-5,5.8e-5,101084000
+2202085000,Celery,veg_oth,"Vegetables, fresh nes",1.12,58,58,5.8e-5,5.8e-5,2202085000
+2202086000,"Celery, juice",veg_oth,"Vegetables, fresh nes",5,58,58,5.8e-5,5.8e-5,2202086000
+2201087000,Celtuce,veg_dg,Lettuce and chicory,1,111,111,1.11e-4,1.11e-4,2201087000
+902088000,"Chayote, fruit",fruit_exc_juice,"Pumpkins, squash and gourds",1,182,182,1.82e-4,1.82e-4,902088000
+2403089000,Cherimoya,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2403089000
+1201090000,Cherry,fruit_exc_juice,Cherries,1.09,208,208,2.08e-4,2.08e-4,1201090000
+1201091000,"Cherry, juice",fruit_juice,Cherries,1.3,208,208,2.08e-4,2.08e-4,1201091000
+1400092000,Chestnut,pf_ns,Chestnut,1.24,4397,4397,0.004397,0.004397,1400092000
+4000096000,"Chicken, fat",sat_fat,"Meat, chicken",1,456,321,4.56e-4,3.21e-4,4000096000
+4000094000,"Chicken, liver",pf_poultry,"Meat, chicken",1,456,321,4.56e-4,3.21e-4,4000094000
+4000093000,"Chicken, meat",pf_poultry,"Meat, chicken",1,456,321,4.56e-4,3.21e-4,4000093000
+4000095000,"Chicken, meat byproducts",pf_poultry,"Meat, chicken",1,456,321,4.56e-4,3.21e-4,4000095000
+4000097000,"Chicken, skin",pf_poultry,"Meat, chicken",1,456,321,4.56e-4,3.21e-4,4000097000
+603099000,"Chickpea, flour",leg_tot,"Flour, pulses",1,278,278,2.78e-4,2.78e-4,603099000
+603098000,"Chickpea, seed",leg_tot,Chick peas,1,79,79,7.9e-5,7.9e-5,603098000
+101100000,"Chicory, roots",veg_oth,Lettuce and chicory,1,111,111,1.11e-4,1.11e-4,101100000
+200101000,"Chicory, tops",veg_oth,Lettuce and chicory,1.146,111,111,1.11e-4,1.11e-4,200101000
+902102000,Chinese waxgourd,veg_oth,"Pumpkins, squash and gourds",1.42,182,182,1.82e-4,1.82e-4,902102000
+1901102500,"Chive, dried leaves",veg_oth,Spinach,1,111,111,1.11e-4,1.11e-4,1901102500
+302103000,"Chive, fresh leaves",veg_oth,Spinach,1,111,111,1.11e-4,1.11e-4,302103000
+401104000,"Chrysanthemum, garland",veg_dg,Spinach,1,111,111,1.11e-4,1.11e-4,401104000
+401118000,"Cilantro, leaves",veg_oth,Spinach,1.18,111,111,1.11e-4,1.11e-4,401118000
+1902105000,Cinnamon,veg_oth,Cinnamon (cannella),1,3097,3097,0.003097,0.003097,1902105000
+1001106000,Citron,fruit_exc_juice,"Fruit, citrus nes",2,59,59,5.9e-5,5.9e-5,1001106000
+1001107000,Citrus hybrids,fruit_exc_juice,"Fruit, citrus nes",1.35,59,59,5.9e-5,5.9e-5,1001107000
+1001108000,"Citrus, oil",oil,"Fruit, citrus nes",1,59,59,5.9e-5,5.9e-5,1001108000
+1400112000,"Coconut, dried",fruit_exc_juice,"Coconuts, desiccated",1,766,766,7.66e-4,7.66e-4,1400112000
+1400111000,"Coconut, meat",fruit_exc_juice,"Coconuts, desiccated",1,766,766,7.66e-4,7.66e-4,1400111000
+1400114000,"Coconut, oil",oil,Coconuts,7.8064012490242005,88,88,8.8e-5,8.8e-5,1400114000
+402117000,Collards,veg_dg,Cabbages and other brassicas,1.75,77,77,7.7e-5,7.7e-5,402117000
+1902119000,"Coriander, seed",veg_oth,"Anise, badian, fennel, coriander",1,1343,1343,0.001343,0.001343,1902119000
+1500122000,"Corn, field, bran",gr_whole,"Flour, maize",1,35,35,3.5e-5,3.5e-5,1500122000
+1500120000,"Corn, field, flour",gr_refined,"Flour, maize",1,35,35,3.5e-5,3.5e-5,1500120000
+1500121000,"Corn, field, meal",gr_whole,"Flour, maize",1,35,35,3.5e-5,3.5e-5,1500121000
+1500125000,"Corn, field, oil",oil,Maize,37.03703703703704,7,7,7e-6,7e-6,1500125000
+1500123000,"Corn, field, starch",gr_refined,"Starch, maize",1,155,155,1.55e-4,1.55e-4,1500123000
+1500124000,"Corn, field, syrup",added_sugar,"Starch, maize",0.76,155,155,1.55e-4,1.55e-4,1500124000
+1500126000,"Corn, pop",gr_whole,Maize,1,7,7,7e-6,7e-6,1500126000
+1500127000,"Corn, sweet",veg_sta,Sweet corn,2.78,80,80,8e-5,8e-5,1500127000
+2003128000,"Cottonseed, oil",oil,AVERAGE(Sesame seed; Poppy seed; Sunflower seed; Mustard seed),3.125,1059.25,1059.25,0.00105925,0.00105925,2003128000
+1100129000,Crabapple,fruit_exc_juice,Apples,1,61,61,6.1e-5,6.1e-5,1100129000
+1307130000,Cranberry,fruit_exc_juice,Cranberries,1.02,47,47,4.7e-5,4.7e-5,1307130000
+1307131000,"Cranberry, dried",fruit_exc_juice,Cranberries,6.64116719242902,47,47,4.7e-5,4.7e-5,1307131000
+1307132000,"Cranberry, juice",fruit_juice,Cranberries,1.3,47,47,4.7e-5,4.7e-5,1307132000
+402133000,"Cress, garden",veg_dg,"Vegetables, fresh nes",1.41,58,58,5.8e-5,5.8e-5,402133000
+402134000,"Cress, upland",veg_dg,"Vegetables, fresh nes",1.41,58,58,5.8e-5,5.8e-5,402134000
+902135000,Cucumber,veg_oth,Cucumbers and gherkins,1.03,239,239,2.39e-4,2.39e-4,902135000
+1302136000,Currant,fruit_exc_juice,Currants,1,870,870,8.7e-4,8.7e-4,1302136000
+1302137000,"Currant, dried",fruit_exc_juice,Raisins,1,857,857,8.57e-4,8.57e-4,1302137000
+401138000,"Dandelion, leaves",veg_oth,Lettuce and chicory,1,111,111,1.11e-4,1.11e-4,401138000
+103139000,"Dasheen, corm",veg_sta,Taro (cocoyam),1,151,151,1.51e-4,1.51e-4,103139000
+200140000,"Dasheen, leaves",veg_oth,Taro (cocoyam),1,151,151,1.51e-4,1.51e-4,200140000
+2303141000,Date,fruit_exc_juice,Dates,1.11,670,670,6.7e-4,6.7e-4,2303141000
+1902143000,"Dill, seed",veg_oth,Spices nes,1,1154,1154,0.001154,0.001154,1902143000
+401144000,Dillweed,veg_oth,Spinach,1,111,111,1.11e-4,1.11e-4,401144000
+2404050206,Dragon fruit,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2404050206
+7000146000,"Egg, white",pf_egg,"Eggs, liquid",1.14,889,429,8.89e-4,4.29e-4,7000146000
+7000145000,"Egg, whole",pf_egg,"Eggs, hen, in shell",1.14,239,197,2.39e-4,1.97e-4,7000145000
+7000147000,"Egg, yolk",pf_egg,"Eggs, liquid",1.14,889,429,8.89e-4,4.29e-4,7000147000
+802148000,Eggplant,veg_oth,Eggplants (aubergines),1.23,174,174,1.74e-4,1.74e-4,802148000
+1302149000,Elderberry,fruit_exc_juice,"Fruit, fresh nes",1,331,331,3.31e-4,3.31e-4,1302149000
+401150000,Endive,veg_dg,Lettuce and chicory,1.16,111,111,1.11e-4,1.11e-4,401150000
+2303151000,Feijoa,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2303151000
+2201152000,"Fennel, Florence",veg_dg,"Vegetables, fresh nes",1.12,58,58,5.8e-5,5.8e-5,2201152000
+2302153000,Fig,fruit_exc_juice,Figs,1.01,100,100,1e-4,1e-4,2302153000
+2302154000,"Fig, dried",fruit_exc_juice,Figs dried,1,428,428,4.28e-4,4.28e-4,2302154000
+8000157000,Fish-freshwater finfish,pf_seafood,NA,NA,NA,NA,NA,NA,8000157000
+8000158000,"Fish-freshwater finfish, farm raised",pf_seafood,NA,NA,NA,NA,NA,NA,8000158000
+8000160000,"Fish-saltwater finfish, other",pf_seafood,NA,NA,NA,NA,NA,NA,8000160000
+8000159000,"Fish-saltwater finfish, tuna",pf_seafood,NA,NA,NA,NA,NA,NA,8000159000
+8000161000,"Fish-shellfish, crustacean",pf_seafood,NA,NA,NA,NA,NA,NA,8000161000
+8000162000,"Fish-shellfish, mollusc",pf_seafood,NA,NA,NA,NA,NA,NA,8000162000
+2001163000,"Flax seed, oil",oil,AVERAGE(Sesame seed; Poppy seed; Sunflower seed; Mustard seed),3.125,1059.25,1059.25,0.00105925,0.00105925,2001163000
+2001162900,"Flax, seed",pf_ns,AVERAGE(Sesame seed; Poppy seed; Sunflower seed; Mustard seed),1,1059.25,1059.25,0.00105925,0.00105925,2001162900
+301165000,"Garlic, bulb",veg_oth,Garlic,1.15,474,474,4.74e-4,4.74e-4,301165000
+103166000,Ginger,veg_oth,Ginger,1.08,3646,3646,0.003646,0.003646,103166000
+103167000,"Ginger, dried",veg_oth,Ginger,4.58,3646,3646,0.003646,0.003646,103167000
+101168000,"Ginseng, dried",veg_oth,Spices nes,1,1154,1154,0.001154,0.001154,101168000
+3200171000,"Goat, fat",sat_fat,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3200171000
+3200172000,"Goat, kidney",pf_redm,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3200172000
+3200173000,"Goat, liver",pf_redm,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3200173000
+3200169000,"Goat, meat",pf_redm,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3200169000
+3200170000,"Goat, meat byproducts",pf_redm,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3200170000
+801173500,Goji berry,fruit_exc_juice,Berries nes,1.04,215,215,2.15e-4,2.15e-4,801173500
+1302174000,Gooseberry,fruit_exc_juice,Currants,1,870,870,8.7e-4,8.7e-4,1302174000
+1304175000,Grape,fruit_exc_juice,Grapes,1.04,155,155,1.55e-4,1.55e-4,1304175000
+1304176000,"Grape, juice",fruit_juice,"Juice, grape",1,860,860,8.6e-4,8.6e-4,1304176000
+9500177000,"Grape, leaves",veg_dg,Spinach,1,111,111,1.11e-4,1.11e-4,9500177000
+1304178000,"Grape, raisin",fruit_exc_juice,Raisins,1,857,857,8.57e-4,8.57e-4,1304178000
+1003180000,Grapefruit,fruit_exc_juice,Grapefruit (inc. pomelos),2,44,44,4.4e-5,4.4e-5,1003180000
+1003181000,"Grapefruit, juice",fruit_juice,"Juice, grapefruit",1,268,268,2.68e-4,2.68e-4,1003181000
+603182000,"Guar, seed",leg_tot,Lentils,1,44,44,4.4e-5,4.4e-5,603182000
+2302183000,Guava,fruit_exc_juice,"Mangoes, mangosteens, guavas",1.28,187,187,1.87e-4,1.87e-4,2302183000
+1400155000,Hazelnut,pf_ns,"Hazelnuts, shelled",1,3365,3365,0.003365,0.003365,1400155000
+1400156000,"Hazelnut, oil",oil,"Hazelnuts, shelled",2.3255813953488373,3365,3365,0.003365,0.003365,1400156000
+1901184000,"Herbs, other",veg_oth,Spinach,1,111,111,1.11e-4,1.11e-4,1901184000
+1400185000,Hickory nut,pf_ns,"Walnuts, shelled",1,761,761,7.61e-4,7.61e-4,1400185000
+9500186000,Honey,added_sugar,"Honey, natural",1,1182,1182,0.001182,0.001182,9500186000
+901187000,Honeydew melon,fruit_exc_juice,"Melons, other (inc. cantaloupes)",2.17,80,80,8e-5,8e-5,901187000
+3300189000,"Horse, meat",pf_redm,None,0,0,0,0,0,3300189000
+101190000,Horseradish,veg_oth,"Vegetables, fresh nes",1,58,58,5.8e-5,5.8e-5,101190000
+1302191000,Huckleberry,fruit_exc_juice,Berries nes,1.05,215,215,2.15e-4,2.15e-4,1302191000
+2403193000,Jackfruit,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2403193000
+402194000,Kale,veg_dg,Cabbages and other brassicas,1.63934426229508,77,77,7.7e-5,7.7e-5,402194000
+1304195000,"Kiwifruit, fuzzy",fruit_exc_juice,Kiwi fruit,1.16,196,196,1.96e-4,1.96e-4,1304195000
+2201196000,Kohlrabi,veg_dg,Cabbages and other brassicas,2.17,77,77,7.7e-5,7.7e-5,2201196000
+1002197000,Kumquat,fruit_exc_juice,"Fruit, citrus nes",1.08,59,59,5.9e-5,5.9e-5,1002197000
+302198000,Leek,veg_oth,"Leeks, other alliaceous vegetables",1,249,249,2.49e-4,2.49e-4,302198000
+1002199000,Lemon,fruit_exc_juice,Lemons and limes,1.89,238,238,2.38e-4,2.38e-4,1002199000
+1002200000,"Lemon, juice",fruit_juice,"Juice, lemon, single strength",1,1694,1694,0.001694,0.001694,1002200000
+1002201000,"Lemon, peel",fruit_exc_juice,Lemons and limes,1,238,238,2.38e-4,2.38e-4,1002201000
+1901202000,Lemongrass,veg_oth,"Leeks, other alliaceous vegetables",1,249,249,2.49e-4,2.49e-4,1901202000
+603203000,"Lentil, seed",leg_tot,Lentils,1,44,44,4.4e-5,4.4e-5,603203000
+401204000,"Lettuce, head",veg_oth,Lettuce and chicory,1.05,111,111,1.11e-4,1.11e-4,401204000
+401205000,"Lettuce, leaf",veg_oth,Lettuce and chicory,1.26,111,111,1.11e-4,1.11e-4,401205000
+1002206000,Lime,fruit_exc_juice,Lemons and limes,1.2,238,238,2.38e-4,2.38e-4,1002206000
+1002207000,"Lime, juice",fruit_juice,"Juice, citrus, single strength",1,289,289,2.89e-4,2.89e-4,1002207000
+1301208000,Loganberry,fruit_exc_juice,Berries nes,1.04,215,215,2.15e-4,2.15e-4,1301208000
+2403209000,Longan,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2403209000
+1100210000,Loquat,fruit_exc_juice,"Fruit, fresh nes",1,331,331,3.31e-4,3.31e-4,1100210000
+2401211000,Lychee,fruit_exc_juice,"Fruit, fresh nes",1.67,331,331,3.31e-4,3.31e-4,2401211000
+2401212000,"Lychee, dried",fruit_exc_juice,"Fruit, dried nes",1,3454,3454,0.003454,0.003454,2401212000
+1400213000,Macadamia nut,pf_ns,"Cashew nuts, shelled",1,16224,16224,0.016224,0.016224,1400213000
+2403214000,Mamey apple,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2403214000
+2402215000,Mango,fruit_exc_juice,"Mangoes, mangosteens, guavas",1.45,187,187,1.87e-4,1.87e-4,2402215000
+2402216000,"Mango, dried",fruit_exc_juice,"Mangoes, mangosteens, guavas",5.04232164449818,187,187,1.87e-4,1.87e-4,2402216000
+2402217000,"Mango, juice",fruit_juice,"Mangoes, mangosteens, guavas",1.88,187,187,1.87e-4,1.87e-4,2402217000
+9500219000,Maple syrup,added_sugar,Maple sugar and syrups,1,110,110,1.1e-4,1.1e-4,9500219000
+9500218000,"Maple, sugar",added_sugar,Maple sugar and syrups,1.36,110,110,1.1e-4,1.1e-4,9500218000
+1901220000,Marjoram,veg_oth,"Vegetables, fresh nes",1,58,58,5.8e-5,5.8e-5,1901220000
+3800221000,"Meat, game",pf_redm,"Meat, game",1,316,316,3.16e-4,3.16e-4,3800221000
+3600222000,"Milk, fat",dairy,"Milk, whole fresh cow",8.32639467110741,167,131,1.67e-4,1.31e-4,3600222000
+3600223000,"Milk, nonfat solids",dairy,"Milk, whole fresh cow",8.32639467110741,167,131,1.67e-4,1.31e-4,3600223000
+3600224000,"Milk, water",dairy,"Milk, whole fresh cow",0,167,131,1.67e-4,1.31e-4,3600224000
+1500226000,"Millet, grain",gr_whole,Millet,1,37,37,3.7e-5,3.7e-5,1500226000
+1303227000,Mulberry,fruit_exc_juice,Berries nes,1.04,215,215,2.15e-4,2.15e-4,1303227000
+2100228000,Mushroom,veg_oth,Mushrooms and truffles,1.03,473,473,4.73e-4,4.73e-4,2100228000
+402229000,Mustard greens,veg_dg,Spinach,1.08,111,111,1.11e-4,1.11e-4,402229000
+1202230000,Nectarine,fruit_exc_juice,Peaches and nectarines,1.1,104,104,1.04e-4,1.04e-4,1202230000
+1500231000,"Oat, bran",gr_whole,Oats rolled,1,78,78,7.8e-5,7.8e-5,1500231000
+1500232000,"Oat, flour",gr_whole,Oats rolled,1,78,78,7.8e-5,7.8e-5,1500232000
+1500233000,"Oat, groats/rolled oats",gr_whole,Oats rolled,1,78,78,7.8e-5,7.8e-5,1500233000
+802234000,Okra,veg_oth,Okra,1.16,87,87,8.7e-5,8.7e-5,802234000
+2301235000,Olive,veg_oth,Olives,1.163,91,91,9.1e-5,9.1e-5,2301235000
+2301236000,"Olive, oil",oil,Olives,5,91,91,9.1e-5,9.1e-5,2301236000
+301237000,"Onion, bulb",veg_oth,"Onions, dry",1.11,120,120,1.2e-4,1.2e-4,301237000
+301238000,"Onion, bulb, dried",veg_oth,"Onions, dry",8.688,120,120,1.2e-4,1.2e-4,301238000
+302239000,"Onion, green",veg_oth,"Leeks, other alliaceous vegetables",1.04,249,249,2.49e-4,2.49e-4,302239000
+1001240000,Orange,fruit_exc_juice,Oranges,1.37,64,64,6.4e-5,6.4e-5,1001240000
+1001241000,"Orange, juice",fruit_juice,"Juice, orange, single strength",1,292,292,2.92e-4,2.92e-4,1001241000
+1001242000,"Orange, peel",fruit_exc_juice,Oranges,1,64,64,6.4e-5,6.4e-5,1001242000
+2201243000,"Palm heart, leaves",veg_dg,Coconuts,1,88,88,8.8e-5,8.8e-5,2201243000
+9500244000,"Palm, oil",oil,"Oil, palm kernel",1,4253,4253,0.004253,0.004253,9500244000
+2402245000,Papaya,fruit_exc_juice,Papayas,1.49,342,342,3.42e-4,3.42e-4,2402245000
+2402246000,"Papaya, dried",fruit_exc_juice,Papayas,10.7,342,342,3.42e-4,3.42e-4,2402246000
+2402247000,"Papaya, juice",fruit_juice,Papayas,1.49,342,342,3.42e-4,3.42e-4,2402247000
+1901249000,"Parsley, dried leaves",veg_oth,"Vegetables, fresh nes",7.65744507729861,58,58,5.8e-5,5.8e-5,1901249000
+401248000,"Parsley, leaves",veg_dg,"Vegetables, fresh nes",1.05,58,58,5.8e-5,5.8e-5,401248000
+101250000,"Parsley, turnip rooted",veg_oth,Carrots and turnips,1,57,57,5.7e-5,5.7e-5,101250000
+101251000,Parsnip,veg_oth,"Vegetables, fresh nes",1.14,58,58,5.8e-5,5.8e-5,101251000
+2405252000,Passionfruit,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.28,478.25,478.25,4.7825e-4,4.7825e-4,2405252000
+2405253000,"Passionfruit, juice",fruit_juice,Papayas,1.88,342,342,3.42e-4,3.42e-4,2405253000
+2402254000,Pawpaw,fruit_exc_juice,"Fruit, fresh nes",1,331,331,3.31e-4,3.31e-4,2402254000
+603256000,"Pea, dry",leg_tot,"Peas, dry",1,24,24,2.4e-5,2.4e-5,603256000
+601257000,"Pea, edible podded, succulent",leg_tot,"Peas, green",1.06,86,86,8.6e-5,8.6e-5,601257000
+603258000,"Pea, pigeon, seed",leg_tot,"Peas, dry",1,24,24,2.4e-5,2.4e-5,603258000
+602259000,"Pea, pigeon, succulent",leg_tot,"Peas, green",1,86,86,8.6e-5,8.6e-5,602259000
+602255000,"Pea, succulent",leg_tot,"Peas, green",1,86,86,8.6e-5,8.6e-5,602255000
+1202260000,Peach,fruit_exc_juice,Peaches and nectarines,1.04,104,104,1.04e-4,1.04e-4,1202260000
+1202261000,"Peach, dried",fruit_exc_juice,Peaches and nectarines,6.38,104,104,1.04e-4,1.04e-4,1202261000
+1202262000,"Peach, juice",fruit_juice,Peaches and nectarines,1.63,104,104,1.04e-4,1.04e-4,1202262000
+9500263000,Peanut,pf_ns,"Groundnuts, shelled",1,287,287,2.87e-4,2.87e-4,9500263000
+9500264000,"Peanut, butter",pf_ns,Peanut butter,1,504,504,5.04e-4,5.04e-4,9500264000
+9500265000,"Peanut, oil",oil,"Groundnuts, shelled",2.3255813953488373,287,287,2.87e-4,2.87e-4,9500265000
+1100266000,Pear,fruit_exc_juice,Pears,1.11,142,142,1.42e-4,1.42e-4,1100266000
+1100267000,"Pear, dried",fruit_exc_juice,Pears,5,142,142,1.42e-4,1.42e-4,1100267000
+1100268000,"Pear, juice",fruit_juice,Pears,1.5,142,142,1.42e-4,1.42e-4,1100268000
+1400269000,Pecan,pf_ns,"Walnuts, shelled",1,761,761,7.61e-4,7.61e-4,1400269000
+802270000,"Pepper, bell",veg_ro,"Chillies and peppers, green",1.22,434,434,4.34e-4,4.34e-4,802270000
+802271000,"Pepper, bell, dried",veg_ro,"Chillies and peppers, dry",1.37,1544,1544,0.001544,0.001544,802271000
+1902274000,"Pepper, black and white",veg_oth,Pepper (piper spp.),1,5320,5320,0.00532,0.00532,1902274000
+802272000,"Pepper, nonbell",veg_oth,"Chillies and peppers, green",1.21,434,434,4.34e-4,4.34e-4,802272000
+802273000,"Pepper, nonbell, dried",veg_oth,"Chillies and peppers, dry",1.37,1544,1544,0.001544,0.001544,802273000
+9500275000,Peppermint,veg_oth,Spinach,1,111,111,1.11e-4,1.11e-4,9500275000
+9500276000,"Peppermint, oil",oil,None,0,0,0,0,0,9500276000
+2402277000,Persimmon,fruit_exc_juice,Persimmons,1.19,205,205,2.05e-4,2.05e-4,2402277000
+1400278000,Pine nut,pf_ns,Pistachios,1,82,82,8.2e-5,8.2e-5,1400278000
+2403279000,Pineapple,fruit_exc_juice,Pineapples,1.96,225,225,2.25e-4,2.25e-4,2403279000
+2403280000,"Pineapple, dried",fruit_exc_juice,Pineapples,9.7,225,225,2.25e-4,2.25e-4,2403280000
+2403281000,"Pineapple, juice",fruit_juice,"Juice, pineapple",1,624,624,6.24e-4,6.24e-4,2403281000
+1400282000,Pistachio,pf_ns,Pistachios,1.03,82,82,8.2e-5,8.2e-5,1400282000
+2402283000,Plantain,veg_sta,Plantains and others,1.54,186,186,1.86e-4,1.86e-4,2402283000
+2402284000,"Plantain, dried",veg_sta,Plantains and others,3.157,186,186,1.86e-4,1.86e-4,2402284000
+1203285000,Plum,fruit_exc_juice,Plums and sloes,1.06,86,86,8.6e-5,8.6e-5,1203285000
+1203287000,"Plum, prune, dried",fruit_exc_juice,Plums dried (prunes),1,543,543,5.43e-4,5.43e-4,1203287000
+1203286000,"Plum, prune, fresh",fruit_exc_juice,Plums and sloes,1.06,86,86,8.6e-5,8.6e-5,1203286000
+1203288000,"Plum, prune, juice",fruit_juice,Plums and sloes,1.63,86,86,8.6e-5,8.6e-5,1203288000
+2402289000,Pomegranate,fruit_exc_juice,"Fruit, fresh nes",1.79,331,331,3.31e-4,3.31e-4,2402289000
+2402290000,"Pomegranate, juice",fruit_juice,"Juice, fruit nes",1,3046,3046,0.003046,0.003046,2402290000
+3400293000,"Pork, fat",sat_fat,"Meat, pork",1,883,643,8.83e-4,6.43e-4,3400293000
+3400294000,"Pork, kidney",pf_redm,"Meat, pork",1,883,643,8.83e-4,6.43e-4,3400294000
+3400295000,"Pork, liver",pf_redm,"Meat, pork",1,883,643,8.83e-4,6.43e-4,3400295000
+3400290000,"Pork, meat",pf_redm,"Meat, pork",1,883,643,8.83e-4,6.43e-4,3400290000
+3400292000,"Pork, meat byproducts",pf_redm,"Meat, pork",1,883,643,8.83e-4,6.43e-4,3400292000
+3400291000,"Pork, skin",pf_redm,"Meat, pork",1,883,643,8.83e-4,6.43e-4,3400291000
+103296000,"Potato, chips",veg_sta,"Flour, potatoes",1,144,144,1.44e-4,1.44e-4,103296000
+103297000,"Potato, dry (granules/ flakes)",veg_sta,"Flour, potatoes",1,144,144,1.44e-4,1.44e-4,103297000
+103298000,"Potato, flour",veg_sta,"Flour, potatoes",1,144,144,1.44e-4,1.44e-4,103298000
+103300000,"Potato, tuber, w/o peel",veg_sta,Potatoes,1.33,5,5,5e-6,5e-6,103300000
+103299000,"Potato, tuber, w/peel",veg_sta,Potatoes,1,5,5,5e-6,5e-6,103299000
+6000304000,"Poultry, other, fat",sat_fat,"AVERAGE(Meat, chicken; Meat, turkey)",1,397,262,3.97e-4,2.62e-4,6000304000
+6000302000,"Poultry, other, liver",pf_poultry,"AVERAGE(Meat, chicken; Meat, turkey)",1,397,262,3.97e-4,2.62e-4,6000302000
+6000301000,"Poultry, other, meat",pf_poultry,"AVERAGE(Meat, chicken; Meat, turkey)",1,397,262,3.97e-4,2.62e-4,6000301000
+6000303000,"Poultry, other, meat byproducts",pf_poultry,"AVERAGE(Meat, chicken; Meat, turkey)",1,397,262,3.97e-4,2.62e-4,6000303000
+6000305000,"Poultry, other, skin",pf_poultry,"AVERAGE(Meat, chicken; Meat, turkey)",1,397,262,3.97e-4,2.62e-4,6000305000
+2404062904,Prickly pear fruit,fruit_exc_juice,"Fruit, fresh nes",1,331,331,3.31e-4,3.31e-4,2404062904
+9500306000,"Psyllium, seed",pf_ns,AVERAGE(Sesame seed; Poppy seed; Sunflower seed; Mustard seed),1,1059.25,1059.25,0.00105925,0.00105925,9500306000
+1003307000,Pummelo,fruit_exc_juice,Grapefruit (inc. pomelos),2,44,44,4.4e-5,4.4e-5,1003307000
+902308000,Pumpkin,veg_ro,"Pumpkins, squash and gourds",1.43,182,182,1.82e-4,1.82e-4,902308000
+902309000,"Pumpkin, seed",pf_ns,"Pumpkins, squash and gourds",3.3333333333333335,182,182,1.82e-4,1.82e-4,902309000
+1100310000,Quince,fruit_exc_juice,Quinces,1,285,285,2.85e-4,2.85e-4,1100310000
+9500311000,"Quinoa, grain",gr_whole,Quinoa,1,1219,1219,0.001219,0.001219,9500311000
+3900312000,"Rabbit, meat",pf_redm,"Meat, rabbit",1,2421,2286,0.002421,0.002286,3900312000
+401313000,Radicchio,veg_oth,Lettuce and chicory,1.1,111,111,1.11e-4,1.11e-4,401313000
+101316000,"Radish, Oriental, roots",veg_oth,"Vegetables, fresh nes",1.27,58,58,5.8e-5,5.8e-5,101316000
+200317000,"Radish, Oriental, tops",veg_dg,"Vegetables, fresh nes",1,58,58,5.8e-5,5.8e-5,200317000
+101314000,"Radish, roots",veg_oth,"Vegetables, fresh nes",1.11,58,58,5.8e-5,5.8e-5,101314000
+402315000,"Radish, tops",veg_dg,"Vegetables, fresh nes",1,58,58,5.8e-5,5.8e-5,402315000
+402318000,Rape greens,veg_dg,Cabbages and other brassicas,1.63934426229508,77,77,7.7e-5,7.7e-5,402318000
+2001319000,"Rapeseed, oil",oil,Rapeseed,2.6315789473684212,73,73,7.3e-5,7.3e-5,2001319000
+1301320000,Raspberry,fruit_exc_juice,Raspberries,1.04,298,298,2.98e-4,2.98e-4,1301320000
+1301321000,"Raspberry, juice",fruit_juice,Raspberries,1.3,298,298,2.98e-4,2.98e-4,1301321000
+2202322000,Rhubarb,veg_oth,"Vegetables, fresh nes",1.33,58,58,5.8e-5,5.8e-5,2202322000
+1500326000,"Rice, bran",gr_whole,"Rice, milled",1,153,153,1.53e-4,1.53e-4,1500326000
+1500324000,"Rice, brown",gr_whole,"Rice, husked",1,243,243,2.43e-4,2.43e-4,1500324000
+1500325000,"Rice, flour",gr_refined,"Flour, rice",1,1340,1340,0.00134,0.00134,1500325000
+1500323000,"Rice, white",gr_refined,"Rice, milled",1,153,153,1.53e-4,1.53e-4,1500323000
+101327000,Rutabaga,veg_oth,"Vegetables, fresh nes",1.18,58,58,5.8e-5,5.8e-5,101327000
+1500329000,"Rye, flour",gr_whole,"Flour, rye",1,138,138,1.38e-4,1.38e-4,1500329000
+1500328000,"Rye, grain",gr_whole,Rye,1,20,20,2e-5,2e-5,1500328000
+2002330000,"Safflower, oil",oil,AVERAGE(Sesame seed; Poppy seed; Sunflower seed; Mustard seed),3.125,1059.25,1059.25,0.00105925,0.00105925,2002330000
+101331000,"Salsify, roots",veg_oth,Carrots and turnips,1,57,57,5.7e-5,5.7e-5,101331000
+200332000,"Salsify, tops",veg_dg,Carrots and turnips,1,57,57,5.7e-5,5.7e-5,200332000
+2403333000,"Sapote, Mamey",fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2403333000
+1901334000,Savory,veg_oth,"Vegetables, fresh nes",1,58,58,5.8e-5,5.8e-5,1901334000
+9500335000,Seaweed,veg_oth,Spinach,1,111,111,1.11e-4,1.11e-4,9500335000
+2001337000,"Sesame, oil",oil,Sesame seed,2.3255813953488373,3536,3536,0.003536,0.003536,2001337000
+2001336000,"Sesame, seed",pf_ns,Sesame seed,1,3536,3536,0.003536,0.003536,2001336000
+301338000,"Shallot, bulb",veg_oth,"Onions, dry",1.136,120,120,1.2e-4,1.2e-4,301338000
+302338500,"Shallot, fresh leaves",veg_oth,"Leeks, other alliaceous vegetables",1,249,249,2.49e-4,2.49e-4,302338500
+3500341000,"Sheep, fat",sat_fat,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3500341000
+3500342000,"Sheep, kidney",pf_redm,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3500342000
+3500343000,"Sheep, liver",pf_redm,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3500343000
+3500339000,"Sheep, meat",pf_redm,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3500339000
+3500340000,"Sheep, meat byproducts",pf_redm,"Meat, sheep",1,1249,484,0.001249,4.84e-4,3500340000
+1500344000,"Sorghum, grain",gr_whole,Sorghum,1,7,7,7e-6,7e-6,1500344000
+1500345000,"Sorghum, syrup",added_sugar,Sugar nes,1,1022,1022,0.001022,0.001022,1500345000
+2403346000,Soursop,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.49,478.25,478.25,4.7825e-4,4.7825e-4,2403346000
+600348000,"Soybean, flour",leg_tot,Soybeans,1.2658227848101264,48,48,4.8e-5,4.8e-5,600348000
+600350000,"Soybean, oil",oil,Soybeans,5.555555555555555,48,48,4.8e-5,4.8e-5,600350000
+600347000,"Soybean, seed",leg_tot,Soybeans,1,48,48,4.8e-5,4.8e-5,600347000
+600349000,"Soybean, soy milk",dairy,Soybeans,5.88235294117647,48,48,4.8e-5,4.8e-5,600349000
+601349500,"Soybean, vegetable",leg_tot,Soybeans,1,48,48,4.8e-5,4.8e-5,601349500
+2401351000,Spanish lime,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2401351000
+9500352000,Spearmint,veg_oth,Spinach,1,111,111,1.11e-4,1.11e-4,9500352000
+9500353000,"Spearmint, oil",oil,None,0,0,0,0,0,9500353000
+1902354000,"Spices, other",veg_oth,Spices nes,1,1154,1154,0.001154,0.001154,1902354000
+401355000,Spinach,veg_dg,Spinach,1.39,111,111,1.11e-4,1.11e-4,401355000
+902356000,"Squash, summer",veg_oth,"Pumpkins, squash and gourds",1.05,182,182,1.82e-4,1.82e-4,902356000
+902357000,"Squash, winter",veg_sta,"Pumpkins, squash and gourds",1.41,182,182,1.82e-4,1.82e-4,902357000
+2302358000,Starfruit,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2302358000
+1307359000,Strawberry,fruit_exc_juice,Strawberries,1.06,491,491,4.91e-4,4.91e-4,1307359000
+1307360000,"Strawberry, juice",fruit_juice,Strawberries,1.3,491,491,4.91e-4,4.91e-4,1307360000
+2403361000,Sugar apple,fruit_exc_juice,"AVERAGE(Mangoes, mangosteens, guavas; Pineapples; Avocados; Papayas)",1.506,478.25,478.25,4.7825e-4,4.7825e-4,2403361000
+9500363000,"Sugarcane, molasses",added_sugar,Sugar refined,1,451,451,4.51e-4,4.51e-4,9500363000
+9500362000,"Sugarcane, sugar",added_sugar,Sugar refined,1,451,451,4.51e-4,4.51e-4,9500362000
+2002365000,"Sunflower, oil",oil,Sunflower seed,2.4390243902439024,95,95,9.5e-5,9.5e-5,2002365000
+2002364000,"Sunflower, seed",pf_ns,Sunflower seed,1,95,95,9.5e-5,9.5e-5,2002364000
+103366000,Sweet potato,veg_ro,Sweet potatoes,1.39,16,16,1.6e-5,1.6e-5,103366000
+401367000,Swiss chard,veg_dg,"Vegetables, fresh nes",1.09,58,58,5.8e-5,5.8e-5,401367000
+2302368000,Tamarind,fruit_exc_juice,"Fruit, fresh nes",2.94,331,331,3.31e-4,3.31e-4,2302368000
+1001369000,Tangerine,fruit_exc_juice,"Tangerines, mandarins, clementines, satsumas",1.35,142,142,1.42e-4,1.42e-4,1001369000
+1001370000,"Tangerine, juice",fruit_juice,"Juice, tangerine",1,831,831,8.31e-4,8.31e-4,1001370000
+103371000,"Tanier, corm",veg_sta,Taro (cocoyam),1,151,151,1.51e-4,1.51e-4,103371000
+9500373500,"Teff, flour",gr_whole,"AVERAGE(Flour, wheat; Flour, maize; Flour, buckwheat; Flour, rye; Flour, cereals)",1,104,104,1.04e-4,1.04e-4,9500373500
+801374000,Tomatillo,veg_oth,Tomatoes,1.1,215,215,2.15e-4,2.15e-4,801374000
+801375000,Tomato,veg_ro,Tomatoes,1.1,215,215,2.15e-4,2.15e-4,801375000
+801378000,"Tomato, dried",veg_ro,Tomatoes,17.08,215,215,2.15e-4,2.15e-4,801378000
+801379000,"Tomato, juice",veg_ro,"Juice, tomato",1,244,244,2.44e-4,2.44e-4,801379000
+801376000,"Tomato, paste",veg_ro,"Tomatoes, paste",1,736,736,7.36e-4,7.36e-4,801376000
+801377000,"Tomato, puree",veg_ro,Tomatoes,0.4132231404958678,215,215,2.15e-4,2.15e-4,801377000
+801380000,Tree Tomato,veg_ro,Tomatoes,1.1,215,215,2.15e-4,2.15e-4,801380000
+1500381000,"Triticale, flour",gr_whole,Triticale,1.3333333333333333,41,41,4.1e-5,4.1e-5,1500381000
+5000385000,"Turkey, fat",sat_fat,"Meat, turkey",1,338,203,3.38e-4,2.03e-4,5000385000
+5000383000,"Turkey, liver",pf_poultry,"Meat, turkey",1,338,203,3.38e-4,2.03e-4,5000383000
+5000382000,"Turkey, meat",pf_poultry,"Meat, turkey",1,338,203,3.38e-4,2.03e-4,5000382000
+5000384000,"Turkey, meat byproducts",pf_poultry,"Meat, turkey",1,338,203,3.38e-4,2.03e-4,5000384000
+5000386000,"Turkey, skin",pf_poultry,"Meat, turkey",1,338,203,3.38e-4,2.03e-4,5000386000
+103387000,Turmeric,veg_oth,Spices nes,1,1154,1154,0.001154,0.001154,103387000
+402389000,"Turnip, greens",veg_dg,Carrots and turnips,1.42857142857142,57,57,5.7e-5,5.7e-5,402389000
+101388000,"Turnip, roots",veg_oth,Carrots and turnips,1.23,57,57,5.7e-5,5.7e-5,101388000
+1400391000,Walnut,pf_ns,"Walnuts, shelled",1,761,761,7.61e-4,7.61e-4,1400391000
+9500397000,Water chestnut,veg_sta,Roots and tubers nes,1.3,572,572,5.72e-4,5.72e-4,9500397000
+402398000,Watercress,veg_dg,"Vegetables, fresh nes",1.09,58,58,5.8e-5,5.8e-5,402398000
+901399000,Watermelon,fruit_exc_juice,Watermelons,1.92,65,65,6.5e-5,6.5e-5,901399000
+901400000,"Watermelon, juice",fruit_juice,Watermelons,1.92,65,65,6.5e-5,6.5e-5,901400000
+1500404000,"Wheat, bran",gr_whole,"Flour, wheat",1,43,43,4.3e-5,4.3e-5,1500404000
+1500402000,"Wheat, flour",gr_refined,"Flour, wheat",1,43,43,4.3e-5,4.3e-5,1500402000
+1500403000,"Wheat, germ",gr_whole,"Flour, wheat",1,43,43,4.3e-5,4.3e-5,1500403000
+1500401000,"Wheat, grain",gr_whole,Wheat,1,9,9,9e-6,9e-6,1500401000
+1500405000,Wild rice,gr_whole,"Rice, husked",1,243,243,2.43e-4,2.43e-4,1500405000
+103407000,Yam bean,veg_sta,Roots and tubers nes,1.09,572,572,5.72e-4,5.72e-4,103407000
+103406000,"Yam, true",veg_sta,Roots and tubers nes,1.16,572,572,5.72e-4,5.72e-4,103406000

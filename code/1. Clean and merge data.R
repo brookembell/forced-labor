@@ -1,6 +1,8 @@
 # TITLE: Clean and merge data
 # AUTHOR: Brooke Bell
-# DATE: 8-28-24
+# LAST UPADTED: 06-29-25
+
+# SET UP -----
 
 rm(list = ls())
 
@@ -11,7 +13,9 @@ library(readxl)
 library(survey)
 
 # today's date
-export_date <- "082824"
+export_date <- "062925"
+
+# IMPORT DATA -----
 
 # import mappings
 map_a <- read_xlsx("data/mappings/FCID_to_food_mapping_final.xlsx",
@@ -53,6 +57,8 @@ scores_b <- read_xlsx("data/fl_scores/fl_scores_final.xlsx",
 # join maps
 map_join <- left_join(map_a, map_b)
 
+# CLEAN FORCED LABOR RISK SCORES -----
+
 # get rid of babyfood and water
 map_join1 <- map_join %>% filter(!(Foodgroup %in% c("babyfood", "water")))
 
@@ -90,10 +96,11 @@ map_total <- left_join(map_join2, scores_join1, by = c("FL_Score" = "FL_Score_It
 # which ones are missing
 map_total %>% filter(is.na(FL_Score_Value)) %>% View()
 
-# none
-map_total1 <- map_total %>% mutate(FL_Score_Value = ifelse(FL_Score == "None", 0, FL_Score_Value))
+# If there's no score (none), then set the score to 0
+map_total1 <- map_total %>% 
+  mutate(FL_Score_Value = ifelse(FL_Score == "None", 0, FL_Score_Value))
 
-# which ones are missing now
+# check which ones are missing now
 map_total1 %>% filter(is.na(FL_Score_Value)) %>% View()
 
 # Manually calculate the averages
@@ -231,7 +238,8 @@ map_total9 <- map_total8 %>%
                                  FL_Score_Value_NOFEED))
 
 # what's left?
-map_total9 %>% filter(is.na(FL_Score_Value)) %>% View() # none! (except seafood - deal with in following script)
+map_total9 %>% filter(is.na(FL_Score_Value)) %>% View() 
+# none! (except seafood - deal with in following script)
 
 # double check all averages
 map_total9 %>% filter(str_detect(FL_Score, "^AVERAGE")) %>% View() # looks good
@@ -239,7 +247,7 @@ map_total9 %>% filter(str_detect(FL_Score, "^AVERAGE")) %>% View() # looks good
 # what about scores without feed
 map_total9 %>% filter(is.na(FL_Score_Value_NOFEED)) %>% View() 
 
-# apply fl score to missing
+# if no feed score is missing, then apply FLR score
 map_total10 <- map_total9 %>% 
   mutate(FL_Score_Value_NOFEED = ifelse(is.na(FL_Score_Value_NOFEED), FL_Score_Value, FL_Score_Value_NOFEED))
 
@@ -256,7 +264,7 @@ map_total11 <- map_total10 %>%
 
 # create vector of food items (i.e., dietary factors)
 diet_factors <- c("fruit_exc_juice", # whole fruit
-                  "fruit_juice", #100% fruit juice
+                  "fruit_juice", # 100% fruit juice
             
                   "veg_dg", # dark green vegetables
                   "veg_sta", # starchy vegetables
@@ -285,9 +293,10 @@ map_sub <- map_total11 %>%
   mutate(FCID_Code_chr = as.character(FCID_Code))
 
 # are there any  missing scores?
-map_sub %>% filter(is.na(FL_Score_Value_grams)) %>% View() # none - good! (other than seafood for now)
+map_sub %>% filter(is.na(FL_Score_Value_grams)) %>% View() 
+# none - good! (other than seafood for now)
 
-# export FL scores
+# export FLR scores
 write_csv(map_sub, paste0("data/temp_output/FL_scores_FCID_", export_date, ".csv"))
 
 

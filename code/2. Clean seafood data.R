@@ -1,6 +1,8 @@
 # TITLE: Clean seafood FL scores and join with mapping
 # AUTHOR: Brooke Bell
-# DATE: 8-28-24
+# LAST UPADTED: 06-29-25
+
+# SET UP -----
 
 rm(list = ls())
 
@@ -10,7 +12,9 @@ library(tidyverse)
 library(readxl)
 
 # today's date
-export_date <- "082824"
+export_date <- "062925"
+
+# IMPORT DATA -----
 
 # import seafood scores
 scores <- read_xlsx("data/fl_scores/fl_scores_final.xlsx",
@@ -33,31 +37,33 @@ scores <- read_xlsx("data/fl_scores/fl_scores_final.xlsx",
          Weighted_Risk_Feed = `weighted risk feed (mrh-eq/ton) Producer (Reporter)`,
          Weighted_Risk_Total = `Weighted risk (mrh-eq per ton) AGG+Feed (Reporter)`)
 
+# CLEAN FORCED LABOR RISK SCORES -----
+
 # calculate weighted risk without feed
-scores_ <- scores %>% 
+scores1 <- scores %>% 
   mutate(Weighted_Risk_Total_NOFEED = Weighted_Risk_Total - Weighted_Risk_Feed)
   
 # calculate primary weight proportion
-scores1 <- scores_ %>% 
+scores2 <- scores1 %>% 
   group_by(New_Category) %>% 
   mutate(Primary_Weight_Ton_Sum = sum(Primary_Weight_Ton)) %>% 
   relocate(Primary_Weight_Ton_Sum, .after = Primary_Weight_Ton) %>% 
   ungroup()
 
-scores2 <- scores1 %>% 
+scores3 <- scores2 %>% 
   mutate(Primary_Weight_Prop = Primary_Weight_Ton / Primary_Weight_Ton_Sum) %>% 
   relocate(Primary_Weight_Prop, .after = Primary_Weight_Ton_Sum)
 
-scores3 <- scores2 %>% 
+scores4 <- scores3 %>% 
   select(LASTING_Name, New_Category, Primary_Weight_Prop, Weighted_Risk_Total, Weighted_Risk_Total_NOFEED) %>% 
   arrange(New_Category)
 
-# calculate weighted risk for averages
-scores4 <- scores3 %>% 
+# calculate weighted risk for average categories
+scores5 <- scores4 %>% 
   mutate(Risk_Total_subparts = Primary_Weight_Prop * Weighted_Risk_Total,
          Risk_Total_NOFEED_subparts = Primary_Weight_Prop * Weighted_Risk_Total_NOFEED)
 
-wgtd_avg <- scores4 %>% 
+wgtd_avg <- scores5 %>% 
   group_by(New_Category) %>% 
   summarise(Risk_Total_sum = sum(Risk_Total_subparts),
             Risk_Total_NOFEED_sum = sum(Risk_Total_NOFEED_subparts)) %>% 
@@ -67,7 +73,7 @@ wgtd_avg <- scores4 %>%
   filter(New_Category != "Aquatic animals")
 
 # join
-scores5 <- full_join(scores4, wgtd_avg, by = c("New_Category",
+scores6 <- full_join(scores5, wgtd_avg, by = c("New_Category",
                                                "LASTING_Name",
                                                "Primary_Weight_Prop",
                                                "Weighted_Risk_Total" = "Risk_Total_sum",
@@ -75,7 +81,7 @@ scores5 <- full_join(scores4, wgtd_avg, by = c("New_Category",
   arrange(New_Category, LASTING_Name)
 
 # round to 3 digits
-scores6 <- scores5 %>% 
+scores7 <- scores6 %>% 
   mutate(Weighted_Risk_Total = round(Weighted_Risk_Total),
          Weighted_Risk_Total_NOFEED = round(Weighted_Risk_Total_NOFEED),
          Primary_Weight_Prop = round(Primary_Weight_Prop, digits = 3)) %>% 
@@ -86,7 +92,7 @@ new_names <- read_xlsx("data/mappings/FNDDS_to_FLR_mapping_seafood_final.xlsx",
                       sheet = "Final scores")
 
 # join
-scores7 <- full_join(scores6, new_names, by = c("LASTING_Name" = "Final list of FL scores")) %>% 
+scores8 <- full_join(scores7, new_names, by = c("LASTING_Name" = "Final List of FLR Scores")) %>% 
   rename(Seafood_Label = `New Name`) %>% 
   relocate(Seafood_Label) %>% 
   filter(!(is.na(Seafood_Label)))
@@ -104,17 +110,17 @@ mixed_NOFEED <- read_xlsx("data/mappings/FNDDS_to_FLR_mapping_seafood_final.xlsx
 mixed_comb <- left_join(mixed, mixed_NOFEED, by = "FNDDS_description")
 
 # join
-scores8 <- left_join(scores7, mixed_comb, by = c("LASTING_Name" = "FNDDS_description"))
+scores9 <- left_join(scores8, mixed_comb, by = c("LASTING_Name" = "FNDDS_description"))
 
 # fill in missing scores
-scores9 <- scores8 %>% 
+scores10 <- scores9 %>% 
   mutate(Weighted_Risk_Total = case_when(is.na(Weighted_Risk_Total) & !(is.na(FL_Score_Weighted)) ~ FL_Score_Weighted,
                                          TRUE ~ Weighted_Risk_Total),
          Weighted_Risk_Total_NOFEED = case_when(is.na(Weighted_Risk_Total_NOFEED) & !(is.na(FL_Score_Weighted_NOFEED)) ~ FL_Score_Weighted_NOFEED,
                                                 TRUE ~ Weighted_Risk_Total_NOFEED)) %>% 
   select(-c(LASTING_Name, New_Category, FL_Score_Weighted, FL_Score_Weighted_NOFEED))
 
-# calculate score for unspecified fish
+# calculate score for "unspecified" fish
 unspecified <- read_xlsx("data/mappings/FNDDS_to_FLR_mapping_seafood_final.xlsx",
                    sheet = "Unspecified fish") %>% 
   select(Species, Weight, Category)
@@ -135,7 +141,7 @@ us_score <- sum(unspecified2$Score_weighted)
 us_score_NOFEED <- sum(unspecified2$Score_weighted_NOFEED)
 
 # round to 2 digits
-scores10 <- scores9 %>% 
+scores11 <- scores10 %>% 
   mutate(Weighted_Risk_Total = ifelse(Seafood_Label == "Unspecified fish", round(us_score, digits = 2), Weighted_Risk_Total),
          Weighted_Risk_Total_NOFEED = ifelse(Seafood_Label == "Unspecified fish", round(us_score_NOFEED, digits = 2), Weighted_Risk_Total_NOFEED)) %>% 
   select(-Primary_Weight_Prop)
@@ -146,12 +152,12 @@ my_map <- read_xlsx("data/mappings/FNDDS_to_FLR_mapping_seafood_final.xlsx",
 
 # update mapping
 my_map1 <- my_map %>% 
-  left_join(scores10, by = c("FL Score" = "Seafood_Label")) %>% 
-  arrange(Species, `FL Score`, `FNDDS description`) %>% 
+  left_join(scores11, by = c("FLR Score (FAO Commodity)" = "Seafood_Label")) %>% 
+  arrange(Species, `FLR Score (FAO Commodity)`, `FNDDS Description`) %>% 
   relocate(Notes, .after = last_col())
 
 # export scores
-write_csv(scores10, 
+write_csv(scores11, 
           paste0("data/temp_output/Seafood_scores_", export_date, ".csv"), 
           na = "")
 
@@ -164,9 +170,9 @@ write_csv(my_map1,
 
 # join
 my_map2 <- my_map1 %>%  
-  rename(FNDDS_Code = `FNDDS code`,
-         FNDDS_Desc = `FNDDS description`,
-         FL_Score = `FL Score`,
+  rename(FNDDS_Code = `FNDDS Code`,
+         FNDDS_Desc = `FNDDS Description`,
+         FL_Score = `FLR Score (FAO Commodity)`,
          FL_Score_Value_chr = Weighted_Risk_Total,
          FL_Score_Value_NOFEED = Weighted_Risk_Total_NOFEED) %>% 
   mutate(FL_Score_Value = as.numeric(FL_Score_Value_chr))

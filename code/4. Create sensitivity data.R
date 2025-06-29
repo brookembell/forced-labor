@@ -1,6 +1,8 @@
 # TITLE: Identify min/max values for sensitivity analysis
 # AUTHOR: Brooke Bell
-# DATE: 8-28-24
+# LAST UPADTED: 06-29-25
+
+# SET UP -----
 
 rm(list = ls())
 
@@ -9,7 +11,8 @@ options(scipen=999)
 library(tidyverse)
 library(readxl)
 
-export_date <- "082824"
+# today's date
+export_date <- "062925"
 
 # MIN/MAX VALUES -----
 

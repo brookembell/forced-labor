@@ -1,6 +1,8 @@
 # TITLE: Calculate impact factors for the forced labor risk scores
 # AUTHOR: Brooke Bell
-# DATE: 8-28-24
+# LAST UPADTED: 06-29-25
+
+# SET UP -----
 
 rm(list = ls())
 
@@ -11,13 +13,13 @@ library(readxl)
 library(survey)
 
 # today's date
-export_date <- "082824"
+export_date <- "062925"
 
 # NHANES FOOD DATA -----
 
 # first, read in nhanes food-level data
 
-day1 <- read_rds("data/nhanes/foods_day1_clean.rds")
+day1 <- read_rds(file="data/nhanes/foods_day1_clean.rds")
 
 # select vars
 day1_sub <- day1 %>% select(SEQN, DR1ILINE, DR1IFDCD, DR1IGRMS, DESCRIPTION, nhanes_cycle, dayrec) %>% 
@@ -323,11 +325,17 @@ fl_impact <- my_fl_table %>%
             inedible_per_day = sum(inedible_amt_FCID)) %>% 
   filter(!(is.na(fcidcode)))
 
+# Check missing values
+
 # any missing purchased amt?
-fl_impact %>% filter(is.na(purchased_per_day)) %>% View() #none
+fl_impact %>% filter(is.na(purchased_per_day)) #none
 
 # any missing fl?
-fl_impact %>% ungroup() %>% filter(is.na(FL_per_day)) %>% select(fcidcode) %>% distinct() #some mixed seafood dishes
+fl_impact %>% 
+  ungroup() %>% 
+  filter(is.na(FL_per_day)) %>% 
+  select(fcidcode) %>% 
+  distinct() #some mixed seafood dishes
 
 # average day 1 and day 2 impacts for each fcid code
 fl_wide <- pivot_wider(fl_impact, 

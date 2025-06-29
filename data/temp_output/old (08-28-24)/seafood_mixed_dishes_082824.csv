@@ -1,0 +1,63 @@
+foodcode,description,Foodgroup
+14301100,"Cream cheese, regular, flavored",dairy_tot
+14420200,"Cheese spread, cream cheese, regular",dairy_tot
+14420210,"Cheese spread, cream cheese, light or lite",dairy_tot
+14620130,Seafood dip,dairy_tot
+27116400,Steak tartare,pf_redm
+27360090,"Paella, NFS",pf_redm
+27363000,Gumbo with rice,pf_redm
+27420200,Pork hash,pf_redm
+27460510,"Antipasto with ham, fish, cheese, vegetables",pf_redm
+27464000,"Gumbo, no rice",pf_redm
+28310330,Pho,pf_redm
+32105230,Shrimp egg foo yung,pf_egg
+54406200,Shrimp chips,gr_refined
+58101540,Taco or tostada with fish,gr_refined
+58101555,Soft taco with fish,gr_refined
+58110120,"Egg roll, with shrimp",gr_refined
+58110200,"Roll with meat and/or shrimp, vegetables and rice paper, not fried",gr_refined
+58111200,"Puffs, fried, crab meat and cream cheese filled",gr_refined
+58112510,"Dumpling, steamed, filled with meat, poultry, or seafood",gr_refined
+58117410,"Codfish fritter, Puerto Rican style",gr_refined
+58120110,"Crepe, filled with meat, poultry, or seafood, with sauce",gr_refined
+58123110,"Sweet bread dough, filled with meat, steamed",gr_refined
+58125110,"Quiche with meat, poultry or fish",gr_refined
+58128210,Dressing with oysters,gr_refined
+58134310,"Stuffed shells, with fish and/or shellfish, with tomato sauce",gr_refined
+58136130,"Lo mein, with shrimp",gr_refined
+58137230,Pad Thai with chicken,gr_refined
+58137240,Pad Thai with seafood,gr_refined
+58137250,Pad Thai with meat,gr_refined
+58145120,Macaroni or noodles with cheese and tuna,gr_refined
+58146361,"Pasta with tomato-based sauce and seafood, restaurant",gr_refined
+58146362,"Pasta with tomato-based sauce and seafood, home recipe",gr_refined
+58146363,"Pasta with tomato-based sauce and seafood, ready-to-heat",gr_refined
+58146371,"Pasta with tomato-based sauce, seafood, and added vegetables, restaurant",gr_refined
+58146372,"Pasta with tomato-based sauce, seafood, and added vegetables, home recipe",gr_refined
+58146373,"Pasta with tomato-based sauce, seafood, and added vegetables, ready-to-heat",gr_refined
+58146662,"Pasta, whole grain, with tomato-based sauce and seafood, home recipe",gr_whole
+58146672,"Pasta, whole grain, with tomato-based sauce, seafood, and added vegetables, home recipe",gr_whole
+58146741,"Pasta, whole grain, with cream sauce and seafood, restaurant",gr_whole
+58147340,"Macaroni or noodles, creamed, with cheese and tuna",gr_refined
+58148130,Macaroni or pasta salad with tuna,gr_refined
+58148150,Macaroni or pasta salad with shrimp,gr_refined
+58148160,Macaroni or pasta salad with tuna and egg,gr_refined
+58150510,"Rice, fried, with shrimp",gr_refined
+58151100,"Sushi, NFS",gr_refined
+58151190,"Sushi roll, eel",gr_refined
+58151200,"Sushi roll, salmon",gr_refined
+58151210,"Sushi roll, shrimp",gr_refined
+58151220,Sushi roll tuna,gr_refined
+58151400,"Sushi, topped with crab",gr_refined
+58151410,"Sushi, topped with eel",gr_refined
+58151420,"Sushi, topped with salmon",gr_refined
+58151430,"Sushi, topped with shrimp",gr_refined
+58151440,"Sushi, topped with tuna",gr_refined
+58409000,"Noodle soup, with fish ball, shrimp, and dark green leafy vegetable",gr_refined
+72116150,"Caesar salad, with romaine, no dressing",veg_dg
+72308000,"Dark-green leafy vegetable soup with meat, Asian style",veg_dg
+75146000,"Greek Salad, no dressing",veg_oth
+75460900,"Chow mein or chop suey, meatless, with noodles",veg_oth
+83102000,Caesar dressing,other
+83203000,"Caesar dressing, light",other
+83300200,"Caesar dressing, fat free",other

@@ -1,6 +1,8 @@
 # TITLE: Calculate results
 # AUTHOR: BROOKE BELL
-# DATE: 8-28-24
+# LAST UPADTED: 06-29-25
+
+# SET UP -----
 
 rm(list = ls())
 
@@ -11,7 +13,8 @@ library(readxl)
 library(xlsx)
 library(data.table)
 
-export_date <- "082824"
+# today's date
+export_date <- "062925"
 
 # IMPORT DIETARY PATTERNS -----
 
@@ -61,7 +64,7 @@ nhanes3 <- nhanes2 %>%
          se_grams = SE * Conversion_to_grams)
 
 # look at fruit
-nhanes3 %>% filter(str_detect(food, "fruit")) %>% View() #looks good
+nhanes3 %>% filter(str_detect(food, "fruit")) #looks good
 
 nhanes_sub <- nhanes3 %>%
   filter(!(food %in% c("sodium", "ssb"))) %>% 
@@ -76,7 +79,7 @@ patterns1 <- left_join(patterns, nhanes_sub, by = c("Diet_Factor" = "food")) %>%
   arrange(foodgroup)
 
 # export
-write_csv(patterns1, "tables/Table_1_diet_patterns.csv")
+write_csv(patterns1, paste0("tables/Table_1_diet_patterns_", export_date, ".csv"))
 
 # INCORPORATE INEDIBLE AND WASTED AMOUNTS -----
 
@@ -95,7 +98,7 @@ flrscore_only <- impacts %>%
   select(foodgroup, FLper100gram)
 
 # export
-write_csv(flrscore_only, "tables/Table_1_flrscores.csv")
+write_csv(flrscore_only, paste0("tables/Table_1_flrscores_", export_date, ".csv"))
 
 # join
 impacts1 <- left_join(impacts, my_coefs, by = "foodgroup")
@@ -170,7 +173,7 @@ results1 <- results %>%
 
 
 # Export for manuscript Table 2
-write_csv(results1, "tables/Table_2.csv")
+write_csv(results1, paste0("tables/Table_2_", export_date, ".csv"))
 
 results_nofeed <- patterns5 %>% 
   select(foodgroup,
