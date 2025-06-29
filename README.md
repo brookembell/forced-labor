@@ -1,12 +1,12 @@
 # Forced Labor Repository
 
-This repo contains code and data for the manuscript titled, "The human cost of current and recommended diets in the U.S.".
+This Github repository contains code and data for the manuscript titled, "The human cost of current and recommended diets in the U.S.".
 
-This repo is also an R project, and the "forced-labor.Rproj" file must be opened in R Studio first in order for the code to run properly.
+This repository is also an R project, and the "forced-labor.Rproj" file must be opened in RStudio first in order for the code to run properly.
 
 ## License
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -33,7 +33,7 @@ The following R packages will need to be installed prior to running the code.
 install.packages(c("tidyverse", "readxl", "survey", "xlsx", "data.table"))
 ```
 
-Downloading these packages will typically takes a few minutes.
+Installing these packages will typically take a few minutes.
 
 ## Organization
 
