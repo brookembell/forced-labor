@@ -4,6 +4,37 @@ This repo contains code and data for the manuscript titled, "The human cost of c
 
 This repo is also an R project, and the "forced-labor.Rproj" file must be opened in R Studio first in order for the code to run properly.
 
+## License
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+## System Requirements
+
+R code can be run on MacOS, Windows, or Linux. See more here: https://cran.rstudio.com/.
+
+This code was run using R (version 4.4.0) and RStudio Desktop (version 2024.04.1) on MacOS 14.7.6. 
+
+RStudio requires a 64-bit operating system and R version 3.6.0+.
+
+## R Packages
+
+The following R packages will need to be installed prior to running the code.
+
+```
+install.packages(c("tidyverse", "readxl", "survey", "xlsx", "data.table"))
+```
+
+Downloading these packages will typically takes a few minutes.
+
 ## Organization
 
 There are four main folders:
@@ -22,3 +53,6 @@ There are four main folders:
   * source_data: contains the input data files that are needed to create the figures.
   * tableau: contains the tableau files used to create the figures.
 - tables: contains the manuscript tables that are created with the R scripts.
+
+
+
