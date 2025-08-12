@@ -1,6 +1,6 @@
 # Forced Labor Repository
 
-This Github repository contains code and data for the manuscript titled, "The human cost of current and recommended diets in the U.S.".
+This Github repository contains code and data for the manuscript titled, "Current and recommended diets in the US have embedded forced labor risk," published in Nature Food (in press).
 
 This repository is also an R project, and the "forced-labor.Rproj" file must be opened in RStudio first in order for the code to run properly.
 
